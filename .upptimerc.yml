@@ -14,7 +14,51 @@ sites:
     method: POST
     expectedStatusCodes:
       - 200
-
+  - name: 200 Ok - PUT
+    url: https://httpstatus.xyz/200
+    method: PUT
+    expectedStatusCodes:
+      - 200
+  - name: 200 Ok - PATCH
+    url: https://httpstatus.xyz/200
+    method: PATCH
+    expectedStatusCodes:
+      - 200
+  - name: 200 Ok - DEL
+    url: https://httpstatus.xyz/200
+    method: DEL
+    expectedStatusCodes:
+      - 200
+  - name: 200 Ok - COPY
+    url: https://httpstatus.xyz/200
+    method: COPY
+    expectedStatusCodes:
+      - 200
+  - name: 200 Ok - HEAD
+    url: https://httpstatus.xyz/200
+    method: HEAD
+    expectedStatusCodes:
+      - 200
+  - name: 200 Ok - OPT
+    url: https://httpstatus.xyz/200
+    method: OPT
+    expectedStatusCodes:
+      - 200
+  - name: 200 Ok - LOCK
+    url: https://httpstatus.xyz/200
+    method: LOCK
+    expectedStatusCodes:
+      - 200
+  - name: 200 Ok - UNLOCK
+    url: https://httpstatus.xyz/200
+    method: UNLOCK
+    expectedStatusCodes:
+      - 200
+  - name: 200 Ok - PROPFIND
+    url: https://httpstatus.xyz/200
+    method: PROPFIND
+    expectedStatusCodes:
+      - 200
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
