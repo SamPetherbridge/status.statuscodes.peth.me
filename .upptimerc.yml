@@ -24,9 +24,9 @@ sites:
     method: PATCH
     expectedStatusCodes:
       - 200
-  - name: 200 Ok - DEL
+  - name: 200 Ok - DELETE
     url: https://httpstatus.xyz/200
-    method: DEL
+    method: DELETE
     expectedStatusCodes:
       - 200
   - name: 200 Ok - COPY
@@ -39,9 +39,9 @@ sites:
     method: HEAD
     expectedStatusCodes:
       - 200
-  - name: 200 Ok - OPT
+  - name: 200 Ok - OPTIONS
     url: https://httpstatus.xyz/200
-    method: OPT
+    method: OPTIONS
     expectedStatusCodes:
       - 200
   - name: 200 Ok - LOCK
