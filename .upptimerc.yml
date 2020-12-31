@@ -59,6 +59,503 @@ sites:
     method: PROPFIND
     expectedStatusCodes:
       - 200
+  - name: 201 - GET
+    url: https://httpstatus.xyz/201
+    method: GET
+    expectedStatusCodes:
+      - 201
+  - name: 201 - POST
+    url: https://httpstatus.xyz/201
+    method: POST
+    expectedStatusCodes:
+      - 201
+  - name: 201 - PUT
+    url: https://httpstatus.xyz/201
+    method: PUT
+    expectedStatusCodes:
+      - 201
+  - name: 201 - PATCH
+    url: https://httpstatus.xyz/201
+    method: PATCH
+    expectedStatusCodes:
+      - 201
+  - name: 201 - DELETE
+    url: https://httpstatus.xyz/201
+    method: DELETE
+    expectedStatusCodes:
+      - 201
+  - name: 201 - COPY
+    url: https://httpstatus.xyz/201
+    method: COPY
+    expectedStatusCodes:
+      - 201
+  - name: 201 - HEAD
+    url: https://httpstatus.xyz/201
+    method: HEAD
+    expectedStatusCodes:
+      - 201
+  - name: 201 - OPTIONS
+    url: https://httpstatus.xyz/201
+    method: OPTIONS
+    expectedStatusCodes:
+      - 201
+  - name: 201 - LOCK
+    url: https://httpstatus.xyz/201
+    method: LOCK
+    expectedStatusCodes:
+      - 201
+  - name: 201 - UNLOCK
+    url: https://httpstatus.xyz/201
+    method: UNLOCK
+    expectedStatusCodes:
+      - 201
+  - name: 201 - PROPFIND
+    url: https://httpstatus.xyz/201
+    method: PROPFIND
+    expectedStatusCodes:
+      - 201
+  - name: 202 - GET
+    url: https://httpstatus.xyz/202
+    method: GET
+    expectedStatusCodes:
+      - 202
+  - name: 202 - POST
+    url: https://httpstatus.xyz/202
+    method: POST
+    expectedStatusCodes:
+      - 202
+  - name: 202 - PUT
+    url: https://httpstatus.xyz/202
+    method: PUT
+    expectedStatusCodes:
+      - 202
+  - name: 202 - PATCH
+    url: https://httpstatus.xyz/202
+    method: PATCH
+    expectedStatusCodes:
+      - 202
+  - name: 202 - DELETE
+    url: https://httpstatus.xyz/202
+    method: DELETE
+    expectedStatusCodes:
+      - 202
+  - name: 202 - COPY
+    url: https://httpstatus.xyz/202
+    method: COPY
+    expectedStatusCodes:
+      - 202
+  - name: 202 - HEAD
+    url: https://httpstatus.xyz/202
+    method: HEAD
+    expectedStatusCodes:
+      - 202
+  - name: 202 - OPTIONS
+    url: https://httpstatus.xyz/202
+    method: OPTIONS
+    expectedStatusCodes:
+      - 202
+  - name: 202 - LOCK
+    url: https://httpstatus.xyz/202
+    method: LOCK
+    expectedStatusCodes:
+      - 202
+  - name: 202 - UNLOCK
+    url: https://httpstatus.xyz/202
+    method: UNLOCK
+    expectedStatusCodes:
+      - 202
+  - name: 202 - PROPFIND
+    url: https://httpstatus.xyz/202
+    method: PROPFIND
+    expectedStatusCodes:
+      - 202
+  - name: 203 - GET
+    url: https://httpstatus.xyz/203
+    method: GET
+    expectedStatusCodes:
+      - 203
+  - name: 203 - POST
+    url: https://httpstatus.xyz/203
+    method: POST
+    expectedStatusCodes:
+      - 203
+  - name: 203 - PUT
+    url: https://httpstatus.xyz/203
+    method: PUT
+    expectedStatusCodes:
+      - 203
+  - name: 203 - PATCH
+    url: https://httpstatus.xyz/203
+    method: PATCH
+    expectedStatusCodes:
+      - 203
+  - name: 203 - DELETE
+    url: https://httpstatus.xyz/203
+    method: DELETE
+    expectedStatusCodes:
+      - 203
+  - name: 203 - COPY
+    url: https://httpstatus.xyz/203
+    method: COPY
+    expectedStatusCodes:
+      - 203
+  - name: 203 - HEAD
+    url: https://httpstatus.xyz/203
+    method: HEAD
+    expectedStatusCodes:
+      - 203
+  - name: 203 - OPTIONS
+    url: https://httpstatus.xyz/203
+    method: OPTIONS
+    expectedStatusCodes:
+      - 203
+  - name: 203 - LOCK
+    url: https://httpstatus.xyz/203
+    method: LOCK
+    expectedStatusCodes:
+      - 203
+  - name: 203 - UNLOCK
+    url: https://httpstatus.xyz/203
+    method: UNLOCK
+    expectedStatusCodes:
+      - 203
+  - name: 203 - PROPFIND
+    url: https://httpstatus.xyz/203
+    method: PROPFIND
+    expectedStatusCodes:
+      - 203
+  - name: 204 - GET
+    url: https://httpstatus.xyz/204
+    method: GET
+    expectedStatusCodes:
+      - 204
+  - name: 204 - POST
+    url: https://httpstatus.xyz/204
+    method: POST
+    expectedStatusCodes:
+      - 204
+  - name: 204 - PUT
+    url: https://httpstatus.xyz/204
+    method: PUT
+    expectedStatusCodes:
+      - 204
+  - name: 204 - PATCH
+    url: https://httpstatus.xyz/204
+    method: PATCH
+    expectedStatusCodes:
+      - 204
+  - name: 204 - DELETE
+    url: https://httpstatus.xyz/204
+    method: DELETE
+    expectedStatusCodes:
+      - 204
+  - name: 204 - COPY
+    url: https://httpstatus.xyz/204
+    method: COPY
+    expectedStatusCodes:
+      - 204
+  - name: 204 - HEAD
+    url: https://httpstatus.xyz/204
+    method: HEAD
+    expectedStatusCodes:
+      - 204
+  - name: 204 - OPTIONS
+    url: https://httpstatus.xyz/204
+    method: OPTIONS
+    expectedStatusCodes:
+      - 204
+  - name: 204 - LOCK
+    url: https://httpstatus.xyz/204
+    method: LOCK
+    expectedStatusCodes:
+      - 204
+  - name: 204 - UNLOCK
+    url: https://httpstatus.xyz/204
+    method: UNLOCK
+    expectedStatusCodes:
+      - 204
+  - name: 204 - PROPFIND
+    url: https://httpstatus.xyz/204
+    method: PROPFIND
+    expectedStatusCodes:
+      - 204
+  - name: 205 - GET
+    url: https://httpstatus.xyz/205
+    method: GET
+    expectedStatusCodes:
+      - 205
+  - name: 205 - POST
+    url: https://httpstatus.xyz/205
+    method: POST
+    expectedStatusCodes:
+      - 205
+  - name: 205 - PUT
+    url: https://httpstatus.xyz/205
+    method: PUT
+    expectedStatusCodes:
+      - 205
+  - name: 205 - PATCH
+    url: https://httpstatus.xyz/205
+    method: PATCH
+    expectedStatusCodes:
+      - 205
+  - name: 205 - DELETE
+    url: https://httpstatus.xyz/205
+    method: DELETE
+    expectedStatusCodes:
+      - 205
+  - name: 205 - COPY
+    url: https://httpstatus.xyz/205
+    method: COPY
+    expectedStatusCodes:
+      - 205
+  - name: 205 - HEAD
+    url: https://httpstatus.xyz/205
+    method: HEAD
+    expectedStatusCodes:
+      - 205
+  - name: 205 - OPTIONS
+    url: https://httpstatus.xyz/205
+    method: OPTIONS
+    expectedStatusCodes:
+      - 205
+  - name: 205 - LOCK
+    url: https://httpstatus.xyz/205
+    method: LOCK
+    expectedStatusCodes:
+      - 205
+  - name: 205 - UNLOCK
+    url: https://httpstatus.xyz/205
+    method: UNLOCK
+    expectedStatusCodes:
+      - 205
+  - name: 205 - PROPFIND
+    url: https://httpstatus.xyz/205
+    method: PROPFIND
+    expectedStatusCodes:
+      - 205
+  - name: 206 - GET
+    url: https://httpstatus.xyz/206
+    method: GET
+    expectedStatusCodes:
+      - 206
+  - name: 206 - POST
+    url: https://httpstatus.xyz/206
+    method: POST
+    expectedStatusCodes:
+      - 206
+  - name: 206 - PUT
+    url: https://httpstatus.xyz/206
+    method: PUT
+    expectedStatusCodes:
+      - 206
+  - name: 206 - PATCH
+    url: https://httpstatus.xyz/206
+    method: PATCH
+    expectedStatusCodes:
+      - 206
+  - name: 206 - DELETE
+    url: https://httpstatus.xyz/206
+    method: DELETE
+    expectedStatusCodes:
+      - 206
+  - name: 206 - COPY
+    url: https://httpstatus.xyz/206
+    method: COPY
+    expectedStatusCodes:
+      - 206
+  - name: 206 - HEAD
+    url: https://httpstatus.xyz/206
+    method: HEAD
+    expectedStatusCodes:
+      - 206
+  - name: 206 - OPTIONS
+    url: https://httpstatus.xyz/206
+    method: OPTIONS
+    expectedStatusCodes:
+      - 206
+  - name: 206 - LOCK
+    url: https://httpstatus.xyz/206
+    method: LOCK
+    expectedStatusCodes:
+      - 206
+  - name: 206 - UNLOCK
+    url: https://httpstatus.xyz/206
+    method: UNLOCK
+    expectedStatusCodes:
+      - 206
+  - name: 206 - PROPFIND
+    url: https://httpstatus.xyz/206
+    method: PROPFIND
+    expectedStatusCodes:
+      - 206
+  - name: 207 - GET
+    url: https://httpstatus.xyz/207
+    method: GET
+    expectedStatusCodes:
+      - 207
+  - name: 207 - POST
+    url: https://httpstatus.xyz/207
+    method: POST
+    expectedStatusCodes:
+      - 207
+  - name: 207 - PUT
+    url: https://httpstatus.xyz/207
+    method: PUT
+    expectedStatusCodes:
+      - 207
+  - name: 207 - PATCH
+    url: https://httpstatus.xyz/207
+    method: PATCH
+    expectedStatusCodes:
+      - 207
+  - name: 207 - DELETE
+    url: https://httpstatus.xyz/207
+    method: DELETE
+    expectedStatusCodes:
+      - 207
+  - name: 207 - COPY
+    url: https://httpstatus.xyz/207
+    method: COPY
+    expectedStatusCodes:
+      - 207
+  - name: 207 - HEAD
+    url: https://httpstatus.xyz/207
+    method: HEAD
+    expectedStatusCodes:
+      - 207
+  - name: 207 - OPTIONS
+    url: https://httpstatus.xyz/207
+    method: OPTIONS
+    expectedStatusCodes:
+      - 207
+  - name: 207 - LOCK
+    url: https://httpstatus.xyz/207
+    method: LOCK
+    expectedStatusCodes:
+      - 207
+  - name: 207 - UNLOCK
+    url: https://httpstatus.xyz/207
+    method: UNLOCK
+    expectedStatusCodes:
+      - 207
+  - name: 207 - PROPFIND
+    url: https://httpstatus.xyz/207
+    method: PROPFIND
+    expectedStatusCodes:
+      - 207
+  - name: 208 - GET
+    url: https://httpstatus.xyz/208
+    method: GET
+    expectedStatusCodes:
+      - 208
+  - name: 208 - POST
+    url: https://httpstatus.xyz/208
+    method: POST
+    expectedStatusCodes:
+      - 208
+  - name: 208 - PUT
+    url: https://httpstatus.xyz/208
+    method: PUT
+    expectedStatusCodes:
+      - 208
+  - name: 208 - PATCH
+    url: https://httpstatus.xyz/208
+    method: PATCH
+    expectedStatusCodes:
+      - 208
+  - name: 208 - DELETE
+    url: https://httpstatus.xyz/208
+    method: DELETE
+    expectedStatusCodes:
+      - 208
+  - name: 208 - COPY
+    url: https://httpstatus.xyz/208
+    method: COPY
+    expectedStatusCodes:
+      - 208
+  - name: 208 - HEAD
+    url: https://httpstatus.xyz/208
+    method: HEAD
+    expectedStatusCodes:
+      - 208
+  - name: 208 - OPTIONS
+    url: https://httpstatus.xyz/208
+    method: OPTIONS
+    expectedStatusCodes:
+      - 208
+  - name: 208 - LOCK
+    url: https://httpstatus.xyz/208
+    method: LOCK
+    expectedStatusCodes:
+      - 208
+  - name: 208 - UNLOCK
+    url: https://httpstatus.xyz/208
+    method: UNLOCK
+    expectedStatusCodes:
+      - 208
+  - name: 208 - PROPFIND
+    url: https://httpstatus.xyz/208
+    method: PROPFIND
+    expectedStatusCodes:
+      - 208
+  - name: 226 - GET
+    url: https://httpstatus.xyz/226
+    method: GET
+    expectedStatusCodes:
+      - 226
+  - name: 226 - POST
+    url: https://httpstatus.xyz/226
+    method: POST
+    expectedStatusCodes:
+      - 226
+  - name: 226 - PUT
+    url: https://httpstatus.xyz/226
+    method: PUT
+    expectedStatusCodes:
+      - 226
+  - name: 226 - PATCH
+    url: https://httpstatus.xyz/226
+    method: PATCH
+    expectedStatusCodes:
+      - 226
+  - name: 226 - DELETE
+    url: https://httpstatus.xyz/226
+    method: DELETE
+    expectedStatusCodes:
+      - 226
+  - name: 226 - COPY
+    url: https://httpstatus.xyz/226
+    method: COPY
+    expectedStatusCodes:
+      - 226
+  - name: 226 - HEAD
+    url: https://httpstatus.xyz/226
+    method: HEAD
+    expectedStatusCodes:
+      - 226
+  - name: 226 - OPTIONS
+    url: https://httpstatus.xyz/226
+    method: OPTIONS
+    expectedStatusCodes:
+      - 226
+  - name: 226 - LOCK
+    url: https://httpstatus.xyz/226
+    method: LOCK
+    expectedStatusCodes:
+      - 226
+  - name: 226 - UNLOCK
+    url: https://httpstatus.xyz/226
+    method: UNLOCK
+    expectedStatusCodes:
+      - 226
+  - name: 226 - PROPFIND
+    url: https://httpstatus.xyz/226
+    method: PROPFIND
+    expectedStatusCodes:
+      - 226
+assignees:
+  - SamPetherbridge
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
@@ -75,8 +572,9 @@ status-website:
     # - title: GitHub
     #   href: https://github.com/$OWNER/$REPO
 
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+commitMessages:
+  commitAuthorName: "Upptime Bot"
+  commitAuthorEmail: "sam@peth.me"
 
 workflowSchedule:
   graphs: "0 0 * * *"
