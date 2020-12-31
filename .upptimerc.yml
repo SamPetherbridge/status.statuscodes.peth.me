@@ -9,6 +9,11 @@ sites:
     method: GET
     expectedStatusCodes:
       - 200
+  - name: 200 Ok - POST
+    url: https://httpstatus.xyz/200
+    method: POST
+    expectedStatusCodes:
+      - 200
 
 
 status-website:
