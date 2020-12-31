@@ -24,7 +24,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: HTTPStatus.xyz - Status
   introTitle: "HTTPStatus.xyz Status"
-  introMessage: "Status page for HTTPStatus.xyz powered by GitHub.""
+  introMessage: "Status page for HTTPStatus.xyz powered by GitHub."
   navbar:
     - title: Status
       href: /
