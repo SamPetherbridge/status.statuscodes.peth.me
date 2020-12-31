@@ -554,6 +554,3252 @@ sites:
     method: PROPFIND
     expectedStatusCodes:
       - 226
+  - name: 300 - GET
+    url: https://httpstatus.xyz/300
+    method: GET
+    expectedStatusCodes:
+      - 300
+  - name: 300 - POST
+    url: https://httpstatus.xyz/300
+    method: POST
+    expectedStatusCodes:
+      - 300
+  - name: 300 - PUT
+    url: https://httpstatus.xyz/300
+    method: PUT
+    expectedStatusCodes:
+      - 300
+  - name: 300 - PATCH
+    url: https://httpstatus.xyz/300
+    method: PATCH
+    expectedStatusCodes:
+      - 300
+  - name: 300 - DELETE
+    url: https://httpstatus.xyz/300
+    method: DELETE
+    expectedStatusCodes:
+      - 300
+  - name: 300 - COPY
+    url: https://httpstatus.xyz/300
+    method: COPY
+    expectedStatusCodes:
+      - 300
+  - name: 300 - HEAD
+    url: https://httpstatus.xyz/300
+    method: HEAD
+    expectedStatusCodes:
+      - 300
+  - name: 300 - OPTIONS
+    url: https://httpstatus.xyz/300
+    method: OPTIONS
+    expectedStatusCodes:
+      - 300
+  - name: 300 - LOCK
+    url: https://httpstatus.xyz/300
+    method: LOCK
+    expectedStatusCodes:
+      - 300
+  - name: 300 - UNLOCK
+    url: https://httpstatus.xyz/300
+    method: UNLOCK
+    expectedStatusCodes:
+      - 300
+  - name: 300 - PROPFIND
+    url: https://httpstatus.xyz/300
+    method: PROPFIND
+    expectedStatusCodes:
+      - 300
+  - name: 301 - GET
+    url: https://httpstatus.xyz/301
+    method: GET
+    expectedStatusCodes:
+      - 301
+  - name: 301 - POST
+    url: https://httpstatus.xyz/301
+    method: POST
+    expectedStatusCodes:
+      - 301
+  - name: 301 - PUT
+    url: https://httpstatus.xyz/301
+    method: PUT
+    expectedStatusCodes:
+      - 301
+  - name: 301 - PATCH
+    url: https://httpstatus.xyz/301
+    method: PATCH
+    expectedStatusCodes:
+      - 301
+  - name: 301 - DELETE
+    url: https://httpstatus.xyz/301
+    method: DELETE
+    expectedStatusCodes:
+      - 301
+  - name: 301 - COPY
+    url: https://httpstatus.xyz/301
+    method: COPY
+    expectedStatusCodes:
+      - 301
+  - name: 301 - HEAD
+    url: https://httpstatus.xyz/301
+    method: HEAD
+    expectedStatusCodes:
+      - 301
+  - name: 301 - OPTIONS
+    url: https://httpstatus.xyz/301
+    method: OPTIONS
+    expectedStatusCodes:
+      - 301
+  - name: 301 - LOCK
+    url: https://httpstatus.xyz/301
+    method: LOCK
+    expectedStatusCodes:
+      - 301
+  - name: 301 - UNLOCK
+    url: https://httpstatus.xyz/301
+    method: UNLOCK
+    expectedStatusCodes:
+      - 301
+  - name: 301 - PROPFIND
+    url: https://httpstatus.xyz/301
+    method: PROPFIND
+    expectedStatusCodes:
+      - 301
+  - name: 302 - GET
+    url: https://httpstatus.xyz/302
+    method: GET
+    expectedStatusCodes:
+      - 302
+  - name: 302 - POST
+    url: https://httpstatus.xyz/302
+    method: POST
+    expectedStatusCodes:
+      - 302
+  - name: 302 - PUT
+    url: https://httpstatus.xyz/302
+    method: PUT
+    expectedStatusCodes:
+      - 302
+  - name: 302 - PATCH
+    url: https://httpstatus.xyz/302
+    method: PATCH
+    expectedStatusCodes:
+      - 302
+  - name: 302 - DELETE
+    url: https://httpstatus.xyz/302
+    method: DELETE
+    expectedStatusCodes:
+      - 302
+  - name: 302 - COPY
+    url: https://httpstatus.xyz/302
+    method: COPY
+    expectedStatusCodes:
+      - 302
+  - name: 302 - HEAD
+    url: https://httpstatus.xyz/302
+    method: HEAD
+    expectedStatusCodes:
+      - 302
+  - name: 302 - OPTIONS
+    url: https://httpstatus.xyz/302
+    method: OPTIONS
+    expectedStatusCodes:
+      - 302
+  - name: 302 - LOCK
+    url: https://httpstatus.xyz/302
+    method: LOCK
+    expectedStatusCodes:
+      - 302
+  - name: 302 - UNLOCK
+    url: https://httpstatus.xyz/302
+    method: UNLOCK
+    expectedStatusCodes:
+      - 302
+  - name: 302 - PROPFIND
+    url: https://httpstatus.xyz/302
+    method: PROPFIND
+    expectedStatusCodes:
+      - 302
+  - name: 303 - GET
+    url: https://httpstatus.xyz/303
+    method: GET
+    expectedStatusCodes:
+      - 303
+  - name: 303 - POST
+    url: https://httpstatus.xyz/303
+    method: POST
+    expectedStatusCodes:
+      - 303
+  - name: 303 - PUT
+    url: https://httpstatus.xyz/303
+    method: PUT
+    expectedStatusCodes:
+      - 303
+  - name: 303 - PATCH
+    url: https://httpstatus.xyz/303
+    method: PATCH
+    expectedStatusCodes:
+      - 303
+  - name: 303 - DELETE
+    url: https://httpstatus.xyz/303
+    method: DELETE
+    expectedStatusCodes:
+      - 303
+  - name: 303 - COPY
+    url: https://httpstatus.xyz/303
+    method: COPY
+    expectedStatusCodes:
+      - 303
+  - name: 303 - HEAD
+    url: https://httpstatus.xyz/303
+    method: HEAD
+    expectedStatusCodes:
+      - 303
+  - name: 303 - OPTIONS
+    url: https://httpstatus.xyz/303
+    method: OPTIONS
+    expectedStatusCodes:
+      - 303
+  - name: 303 - LOCK
+    url: https://httpstatus.xyz/303
+    method: LOCK
+    expectedStatusCodes:
+      - 303
+  - name: 303 - UNLOCK
+    url: https://httpstatus.xyz/303
+    method: UNLOCK
+    expectedStatusCodes:
+      - 303
+  - name: 303 - PROPFIND
+    url: https://httpstatus.xyz/303
+    method: PROPFIND
+    expectedStatusCodes:
+      - 303
+  - name: 304 - GET
+    url: https://httpstatus.xyz/304
+    method: GET
+    expectedStatusCodes:
+      - 304
+  - name: 304 - POST
+    url: https://httpstatus.xyz/304
+    method: POST
+    expectedStatusCodes:
+      - 304
+  - name: 304 - PUT
+    url: https://httpstatus.xyz/304
+    method: PUT
+    expectedStatusCodes:
+      - 304
+  - name: 304 - PATCH
+    url: https://httpstatus.xyz/304
+    method: PATCH
+    expectedStatusCodes:
+      - 304
+  - name: 304 - DELETE
+    url: https://httpstatus.xyz/304
+    method: DELETE
+    expectedStatusCodes:
+      - 304
+  - name: 304 - COPY
+    url: https://httpstatus.xyz/304
+    method: COPY
+    expectedStatusCodes:
+      - 304
+  - name: 304 - HEAD
+    url: https://httpstatus.xyz/304
+    method: HEAD
+    expectedStatusCodes:
+      - 304
+  - name: 304 - OPTIONS
+    url: https://httpstatus.xyz/304
+    method: OPTIONS
+    expectedStatusCodes:
+      - 304
+  - name: 304 - LOCK
+    url: https://httpstatus.xyz/304
+    method: LOCK
+    expectedStatusCodes:
+      - 304
+  - name: 304 - UNLOCK
+    url: https://httpstatus.xyz/304
+    method: UNLOCK
+    expectedStatusCodes:
+      - 304
+  - name: 304 - PROPFIND
+    url: https://httpstatus.xyz/304
+    method: PROPFIND
+    expectedStatusCodes:
+      - 304
+  - name: 307 - GET
+    url: https://httpstatus.xyz/307
+    method: GET
+    expectedStatusCodes:
+      - 307
+  - name: 307 - POST
+    url: https://httpstatus.xyz/307
+    method: POST
+    expectedStatusCodes:
+      - 307
+  - name: 307 - PUT
+    url: https://httpstatus.xyz/307
+    method: PUT
+    expectedStatusCodes:
+      - 307
+  - name: 307 - PATCH
+    url: https://httpstatus.xyz/307
+    method: PATCH
+    expectedStatusCodes:
+      - 307
+  - name: 307 - DELETE
+    url: https://httpstatus.xyz/307
+    method: DELETE
+    expectedStatusCodes:
+      - 307
+  - name: 307 - COPY
+    url: https://httpstatus.xyz/307
+    method: COPY
+    expectedStatusCodes:
+      - 307
+  - name: 307 - HEAD
+    url: https://httpstatus.xyz/307
+    method: HEAD
+    expectedStatusCodes:
+      - 307
+  - name: 307 - OPTIONS
+    url: https://httpstatus.xyz/307
+    method: OPTIONS
+    expectedStatusCodes:
+      - 307
+  - name: 307 - LOCK
+    url: https://httpstatus.xyz/307
+    method: LOCK
+    expectedStatusCodes:
+      - 307
+  - name: 307 - UNLOCK
+    url: https://httpstatus.xyz/307
+    method: UNLOCK
+    expectedStatusCodes:
+      - 307
+  - name: 307 - PROPFIND
+    url: https://httpstatus.xyz/307
+    method: PROPFIND
+    expectedStatusCodes:
+      - 307
+  - name: 308 - GET
+    url: https://httpstatus.xyz/308
+    method: GET
+    expectedStatusCodes:
+      - 308
+  - name: 308 - POST
+    url: https://httpstatus.xyz/308
+    method: POST
+    expectedStatusCodes:
+      - 308
+  - name: 308 - PUT
+    url: https://httpstatus.xyz/308
+    method: PUT
+    expectedStatusCodes:
+      - 308
+  - name: 308 - PATCH
+    url: https://httpstatus.xyz/308
+    method: PATCH
+    expectedStatusCodes:
+      - 308
+  - name: 308 - DELETE
+    url: https://httpstatus.xyz/308
+    method: DELETE
+    expectedStatusCodes:
+      - 308
+  - name: 308 - COPY
+    url: https://httpstatus.xyz/308
+    method: COPY
+    expectedStatusCodes:
+      - 308
+  - name: 308 - HEAD
+    url: https://httpstatus.xyz/308
+    method: HEAD
+    expectedStatusCodes:
+      - 308
+  - name: 308 - OPTIONS
+    url: https://httpstatus.xyz/308
+    method: OPTIONS
+    expectedStatusCodes:
+      - 308
+  - name: 308 - LOCK
+    url: https://httpstatus.xyz/308
+    method: LOCK
+    expectedStatusCodes:
+      - 308
+  - name: 308 - UNLOCK
+    url: https://httpstatus.xyz/308
+    method: UNLOCK
+    expectedStatusCodes:
+      - 308
+  - name: 308 - PROPFIND
+    url: https://httpstatus.xyz/308
+    method: PROPFIND
+    expectedStatusCodes:
+      - 308
+  - name: 400 - GET
+    url: https://httpstatus.xyz/400
+    method: GET
+    expectedStatusCodes:
+      - 400
+  - name: 400 - POST
+    url: https://httpstatus.xyz/400
+    method: POST
+    expectedStatusCodes:
+      - 400
+  - name: 400 - PUT
+    url: https://httpstatus.xyz/400
+    method: PUT
+    expectedStatusCodes:
+      - 400
+  - name: 400 - PATCH
+    url: https://httpstatus.xyz/400
+    method: PATCH
+    expectedStatusCodes:
+      - 400
+  - name: 400 - DELETE
+    url: https://httpstatus.xyz/400
+    method: DELETE
+    expectedStatusCodes:
+      - 400
+  - name: 400 - COPY
+    url: https://httpstatus.xyz/400
+    method: COPY
+    expectedStatusCodes:
+      - 400
+  - name: 400 - HEAD
+    url: https://httpstatus.xyz/400
+    method: HEAD
+    expectedStatusCodes:
+      - 400
+  - name: 400 - OPTIONS
+    url: https://httpstatus.xyz/400
+    method: OPTIONS
+    expectedStatusCodes:
+      - 400
+  - name: 400 - LOCK
+    url: https://httpstatus.xyz/400
+    method: LOCK
+    expectedStatusCodes:
+      - 400
+  - name: 400 - UNLOCK
+    url: https://httpstatus.xyz/400
+    method: UNLOCK
+    expectedStatusCodes:
+      - 400
+  - name: 400 - PROPFIND
+    url: https://httpstatus.xyz/400
+    method: PROPFIND
+    expectedStatusCodes:
+      - 400
+  - name: 401 - GET
+    url: https://httpstatus.xyz/401
+    method: GET
+    expectedStatusCodes:
+      - 401
+  - name: 401 - POST
+    url: https://httpstatus.xyz/401
+    method: POST
+    expectedStatusCodes:
+      - 401
+  - name: 401 - PUT
+    url: https://httpstatus.xyz/401
+    method: PUT
+    expectedStatusCodes:
+      - 401
+  - name: 401 - PATCH
+    url: https://httpstatus.xyz/401
+    method: PATCH
+    expectedStatusCodes:
+      - 401
+  - name: 401 - DELETE
+    url: https://httpstatus.xyz/401
+    method: DELETE
+    expectedStatusCodes:
+      - 401
+  - name: 401 - COPY
+    url: https://httpstatus.xyz/401
+    method: COPY
+    expectedStatusCodes:
+      - 401
+  - name: 401 - HEAD
+    url: https://httpstatus.xyz/401
+    method: HEAD
+    expectedStatusCodes:
+      - 401
+  - name: 401 - OPTIONS
+    url: https://httpstatus.xyz/401
+    method: OPTIONS
+    expectedStatusCodes:
+      - 401
+  - name: 401 - LOCK
+    url: https://httpstatus.xyz/401
+    method: LOCK
+    expectedStatusCodes:
+      - 401
+  - name: 401 - UNLOCK
+    url: https://httpstatus.xyz/401
+    method: UNLOCK
+    expectedStatusCodes:
+      - 401
+  - name: 401 - PROPFIND
+    url: https://httpstatus.xyz/401
+    method: PROPFIND
+    expectedStatusCodes:
+      - 401
+  - name: 402 - GET
+    url: https://httpstatus.xyz/402
+    method: GET
+    expectedStatusCodes:
+      - 402
+  - name: 402 - POST
+    url: https://httpstatus.xyz/402
+    method: POST
+    expectedStatusCodes:
+      - 402
+  - name: 402 - PUT
+    url: https://httpstatus.xyz/402
+    method: PUT
+    expectedStatusCodes:
+      - 402
+  - name: 402 - PATCH
+    url: https://httpstatus.xyz/402
+    method: PATCH
+    expectedStatusCodes:
+      - 402
+  - name: 402 - DELETE
+    url: https://httpstatus.xyz/402
+    method: DELETE
+    expectedStatusCodes:
+      - 402
+  - name: 402 - COPY
+    url: https://httpstatus.xyz/402
+    method: COPY
+    expectedStatusCodes:
+      - 402
+  - name: 402 - HEAD
+    url: https://httpstatus.xyz/402
+    method: HEAD
+    expectedStatusCodes:
+      - 402
+  - name: 402 - OPTIONS
+    url: https://httpstatus.xyz/402
+    method: OPTIONS
+    expectedStatusCodes:
+      - 402
+  - name: 402 - LOCK
+    url: https://httpstatus.xyz/402
+    method: LOCK
+    expectedStatusCodes:
+      - 402
+  - name: 402 - UNLOCK
+    url: https://httpstatus.xyz/402
+    method: UNLOCK
+    expectedStatusCodes:
+      - 402
+  - name: 402 - PROPFIND
+    url: https://httpstatus.xyz/402
+    method: PROPFIND
+    expectedStatusCodes:
+      - 402
+  - name: 403 - GET
+    url: https://httpstatus.xyz/403
+    method: GET
+    expectedStatusCodes:
+      - 403
+  - name: 403 - POST
+    url: https://httpstatus.xyz/403
+    method: POST
+    expectedStatusCodes:
+      - 403
+  - name: 403 - PUT
+    url: https://httpstatus.xyz/403
+    method: PUT
+    expectedStatusCodes:
+      - 403
+  - name: 403 - PATCH
+    url: https://httpstatus.xyz/403
+    method: PATCH
+    expectedStatusCodes:
+      - 403
+  - name: 403 - DELETE
+    url: https://httpstatus.xyz/403
+    method: DELETE
+    expectedStatusCodes:
+      - 403
+  - name: 403 - COPY
+    url: https://httpstatus.xyz/403
+    method: COPY
+    expectedStatusCodes:
+      - 403
+  - name: 403 - HEAD
+    url: https://httpstatus.xyz/403
+    method: HEAD
+    expectedStatusCodes:
+      - 403
+  - name: 403 - OPTIONS
+    url: https://httpstatus.xyz/403
+    method: OPTIONS
+    expectedStatusCodes:
+      - 403
+  - name: 403 - LOCK
+    url: https://httpstatus.xyz/403
+    method: LOCK
+    expectedStatusCodes:
+      - 403
+  - name: 403 - UNLOCK
+    url: https://httpstatus.xyz/403
+    method: UNLOCK
+    expectedStatusCodes:
+      - 403
+  - name: 403 - PROPFIND
+    url: https://httpstatus.xyz/403
+    method: PROPFIND
+    expectedStatusCodes:
+      - 403
+  - name: 404 - GET
+    url: https://httpstatus.xyz/404
+    method: GET
+    expectedStatusCodes:
+      - 404
+  - name: 404 - POST
+    url: https://httpstatus.xyz/404
+    method: POST
+    expectedStatusCodes:
+      - 404
+  - name: 404 - PUT
+    url: https://httpstatus.xyz/404
+    method: PUT
+    expectedStatusCodes:
+      - 404
+  - name: 404 - PATCH
+    url: https://httpstatus.xyz/404
+    method: PATCH
+    expectedStatusCodes:
+      - 404
+  - name: 404 - DELETE
+    url: https://httpstatus.xyz/404
+    method: DELETE
+    expectedStatusCodes:
+      - 404
+  - name: 404 - COPY
+    url: https://httpstatus.xyz/404
+    method: COPY
+    expectedStatusCodes:
+      - 404
+  - name: 404 - HEAD
+    url: https://httpstatus.xyz/404
+    method: HEAD
+    expectedStatusCodes:
+      - 404
+  - name: 404 - OPTIONS
+    url: https://httpstatus.xyz/404
+    method: OPTIONS
+    expectedStatusCodes:
+      - 404
+  - name: 404 - LOCK
+    url: https://httpstatus.xyz/404
+    method: LOCK
+    expectedStatusCodes:
+      - 404
+  - name: 404 - UNLOCK
+    url: https://httpstatus.xyz/404
+    method: UNLOCK
+    expectedStatusCodes:
+      - 404
+  - name: 404 - PROPFIND
+    url: https://httpstatus.xyz/404
+    method: PROPFIND
+    expectedStatusCodes:
+      - 404
+  - name: 405 - GET
+    url: https://httpstatus.xyz/405
+    method: GET
+    expectedStatusCodes:
+      - 405
+  - name: 405 - POST
+    url: https://httpstatus.xyz/405
+    method: POST
+    expectedStatusCodes:
+      - 405
+  - name: 405 - PUT
+    url: https://httpstatus.xyz/405
+    method: PUT
+    expectedStatusCodes:
+      - 405
+  - name: 405 - PATCH
+    url: https://httpstatus.xyz/405
+    method: PATCH
+    expectedStatusCodes:
+      - 405
+  - name: 405 - DELETE
+    url: https://httpstatus.xyz/405
+    method: DELETE
+    expectedStatusCodes:
+      - 405
+  - name: 405 - COPY
+    url: https://httpstatus.xyz/405
+    method: COPY
+    expectedStatusCodes:
+      - 405
+  - name: 405 - HEAD
+    url: https://httpstatus.xyz/405
+    method: HEAD
+    expectedStatusCodes:
+      - 405
+  - name: 405 - OPTIONS
+    url: https://httpstatus.xyz/405
+    method: OPTIONS
+    expectedStatusCodes:
+      - 405
+  - name: 405 - LOCK
+    url: https://httpstatus.xyz/405
+    method: LOCK
+    expectedStatusCodes:
+      - 405
+  - name: 405 - UNLOCK
+    url: https://httpstatus.xyz/405
+    method: UNLOCK
+    expectedStatusCodes:
+      - 405
+  - name: 405 - PROPFIND
+    url: https://httpstatus.xyz/405
+    method: PROPFIND
+    expectedStatusCodes:
+      - 405
+  - name: 406 - GET
+    url: https://httpstatus.xyz/406
+    method: GET
+    expectedStatusCodes:
+      - 406
+  - name: 406 - POST
+    url: https://httpstatus.xyz/406
+    method: POST
+    expectedStatusCodes:
+      - 406
+  - name: 406 - PUT
+    url: https://httpstatus.xyz/406
+    method: PUT
+    expectedStatusCodes:
+      - 406
+  - name: 406 - PATCH
+    url: https://httpstatus.xyz/406
+    method: PATCH
+    expectedStatusCodes:
+      - 406
+  - name: 406 - DELETE
+    url: https://httpstatus.xyz/406
+    method: DELETE
+    expectedStatusCodes:
+      - 406
+  - name: 406 - COPY
+    url: https://httpstatus.xyz/406
+    method: COPY
+    expectedStatusCodes:
+      - 406
+  - name: 406 - HEAD
+    url: https://httpstatus.xyz/406
+    method: HEAD
+    expectedStatusCodes:
+      - 406
+  - name: 406 - OPTIONS
+    url: https://httpstatus.xyz/406
+    method: OPTIONS
+    expectedStatusCodes:
+      - 406
+  - name: 406 - LOCK
+    url: https://httpstatus.xyz/406
+    method: LOCK
+    expectedStatusCodes:
+      - 406
+  - name: 406 - UNLOCK
+    url: https://httpstatus.xyz/406
+    method: UNLOCK
+    expectedStatusCodes:
+      - 406
+  - name: 406 - PROPFIND
+    url: https://httpstatus.xyz/406
+    method: PROPFIND
+    expectedStatusCodes:
+      - 406
+  - name: 407 - GET
+    url: https://httpstatus.xyz/407
+    method: GET
+    expectedStatusCodes:
+      - 407
+  - name: 407 - POST
+    url: https://httpstatus.xyz/407
+    method: POST
+    expectedStatusCodes:
+      - 407
+  - name: 407 - PUT
+    url: https://httpstatus.xyz/407
+    method: PUT
+    expectedStatusCodes:
+      - 407
+  - name: 407 - PATCH
+    url: https://httpstatus.xyz/407
+    method: PATCH
+    expectedStatusCodes:
+      - 407
+  - name: 407 - DELETE
+    url: https://httpstatus.xyz/407
+    method: DELETE
+    expectedStatusCodes:
+      - 407
+  - name: 407 - COPY
+    url: https://httpstatus.xyz/407
+    method: COPY
+    expectedStatusCodes:
+      - 407
+  - name: 407 - HEAD
+    url: https://httpstatus.xyz/407
+    method: HEAD
+    expectedStatusCodes:
+      - 407
+  - name: 407 - OPTIONS
+    url: https://httpstatus.xyz/407
+    method: OPTIONS
+    expectedStatusCodes:
+      - 407
+  - name: 407 - LOCK
+    url: https://httpstatus.xyz/407
+    method: LOCK
+    expectedStatusCodes:
+      - 407
+  - name: 407 - UNLOCK
+    url: https://httpstatus.xyz/407
+    method: UNLOCK
+    expectedStatusCodes:
+      - 407
+  - name: 407 - PROPFIND
+    url: https://httpstatus.xyz/407
+    method: PROPFIND
+    expectedStatusCodes:
+      - 407
+  - name: 408 - GET
+    url: https://httpstatus.xyz/408
+    method: GET
+    expectedStatusCodes:
+      - 408
+  - name: 408 - POST
+    url: https://httpstatus.xyz/408
+    method: POST
+    expectedStatusCodes:
+      - 408
+  - name: 408 - PUT
+    url: https://httpstatus.xyz/408
+    method: PUT
+    expectedStatusCodes:
+      - 408
+  - name: 408 - PATCH
+    url: https://httpstatus.xyz/408
+    method: PATCH
+    expectedStatusCodes:
+      - 408
+  - name: 408 - DELETE
+    url: https://httpstatus.xyz/408
+    method: DELETE
+    expectedStatusCodes:
+      - 408
+  - name: 408 - COPY
+    url: https://httpstatus.xyz/408
+    method: COPY
+    expectedStatusCodes:
+      - 408
+  - name: 408 - HEAD
+    url: https://httpstatus.xyz/408
+    method: HEAD
+    expectedStatusCodes:
+      - 408
+  - name: 408 - OPTIONS
+    url: https://httpstatus.xyz/408
+    method: OPTIONS
+    expectedStatusCodes:
+      - 408
+  - name: 408 - LOCK
+    url: https://httpstatus.xyz/408
+    method: LOCK
+    expectedStatusCodes:
+      - 408
+  - name: 408 - UNLOCK
+    url: https://httpstatus.xyz/408
+    method: UNLOCK
+    expectedStatusCodes:
+      - 408
+  - name: 408 - PROPFIND
+    url: https://httpstatus.xyz/408
+    method: PROPFIND
+    expectedStatusCodes:
+      - 408
+  - name: 409 - GET
+    url: https://httpstatus.xyz/409
+    method: GET
+    expectedStatusCodes:
+      - 409
+  - name: 409 - POST
+    url: https://httpstatus.xyz/409
+    method: POST
+    expectedStatusCodes:
+      - 409
+  - name: 409 - PUT
+    url: https://httpstatus.xyz/409
+    method: PUT
+    expectedStatusCodes:
+      - 409
+  - name: 409 - PATCH
+    url: https://httpstatus.xyz/409
+    method: PATCH
+    expectedStatusCodes:
+      - 409
+  - name: 409 - DELETE
+    url: https://httpstatus.xyz/409
+    method: DELETE
+    expectedStatusCodes:
+      - 409
+  - name: 409 - COPY
+    url: https://httpstatus.xyz/409
+    method: COPY
+    expectedStatusCodes:
+      - 409
+  - name: 409 - HEAD
+    url: https://httpstatus.xyz/409
+    method: HEAD
+    expectedStatusCodes:
+      - 409
+  - name: 409 - OPTIONS
+    url: https://httpstatus.xyz/409
+    method: OPTIONS
+    expectedStatusCodes:
+      - 409
+  - name: 409 - LOCK
+    url: https://httpstatus.xyz/409
+    method: LOCK
+    expectedStatusCodes:
+      - 409
+  - name: 409 - UNLOCK
+    url: https://httpstatus.xyz/409
+    method: UNLOCK
+    expectedStatusCodes:
+      - 409
+  - name: 409 - PROPFIND
+    url: https://httpstatus.xyz/409
+    method: PROPFIND
+    expectedStatusCodes:
+      - 409
+  - name: 410 - GET
+    url: https://httpstatus.xyz/410
+    method: GET
+    expectedStatusCodes:
+      - 410
+  - name: 410 - POST
+    url: https://httpstatus.xyz/410
+    method: POST
+    expectedStatusCodes:
+      - 410
+  - name: 410 - PUT
+    url: https://httpstatus.xyz/410
+    method: PUT
+    expectedStatusCodes:
+      - 410
+  - name: 410 - PATCH
+    url: https://httpstatus.xyz/410
+    method: PATCH
+    expectedStatusCodes:
+      - 410
+  - name: 410 - DELETE
+    url: https://httpstatus.xyz/410
+    method: DELETE
+    expectedStatusCodes:
+      - 410
+  - name: 410 - COPY
+    url: https://httpstatus.xyz/410
+    method: COPY
+    expectedStatusCodes:
+      - 410
+  - name: 410 - HEAD
+    url: https://httpstatus.xyz/410
+    method: HEAD
+    expectedStatusCodes:
+      - 410
+  - name: 410 - OPTIONS
+    url: https://httpstatus.xyz/410
+    method: OPTIONS
+    expectedStatusCodes:
+      - 410
+  - name: 410 - LOCK
+    url: https://httpstatus.xyz/410
+    method: LOCK
+    expectedStatusCodes:
+      - 410
+  - name: 410 - UNLOCK
+    url: https://httpstatus.xyz/410
+    method: UNLOCK
+    expectedStatusCodes:
+      - 410
+  - name: 410 - PROPFIND
+    url: https://httpstatus.xyz/410
+    method: PROPFIND
+    expectedStatusCodes:
+      - 410
+  - name: 411 - GET
+    url: https://httpstatus.xyz/411
+    method: GET
+    expectedStatusCodes:
+      - 411
+  - name: 411 - POST
+    url: https://httpstatus.xyz/411
+    method: POST
+    expectedStatusCodes:
+      - 411
+  - name: 411 - PUT
+    url: https://httpstatus.xyz/411
+    method: PUT
+    expectedStatusCodes:
+      - 411
+  - name: 411 - PATCH
+    url: https://httpstatus.xyz/411
+    method: PATCH
+    expectedStatusCodes:
+      - 411
+  - name: 411 - DELETE
+    url: https://httpstatus.xyz/411
+    method: DELETE
+    expectedStatusCodes:
+      - 411
+  - name: 411 - COPY
+    url: https://httpstatus.xyz/411
+    method: COPY
+    expectedStatusCodes:
+      - 411
+  - name: 411 - HEAD
+    url: https://httpstatus.xyz/411
+    method: HEAD
+    expectedStatusCodes:
+      - 411
+  - name: 411 - OPTIONS
+    url: https://httpstatus.xyz/411
+    method: OPTIONS
+    expectedStatusCodes:
+      - 411
+  - name: 411 - LOCK
+    url: https://httpstatus.xyz/411
+    method: LOCK
+    expectedStatusCodes:
+      - 411
+  - name: 411 - UNLOCK
+    url: https://httpstatus.xyz/411
+    method: UNLOCK
+    expectedStatusCodes:
+      - 411
+  - name: 411 - PROPFIND
+    url: https://httpstatus.xyz/411
+    method: PROPFIND
+    expectedStatusCodes:
+      - 411
+  - name: 412 - GET
+    url: https://httpstatus.xyz/412
+    method: GET
+    expectedStatusCodes:
+      - 412
+  - name: 412 - POST
+    url: https://httpstatus.xyz/412
+    method: POST
+    expectedStatusCodes:
+      - 412
+  - name: 412 - PUT
+    url: https://httpstatus.xyz/412
+    method: PUT
+    expectedStatusCodes:
+      - 412
+  - name: 412 - PATCH
+    url: https://httpstatus.xyz/412
+    method: PATCH
+    expectedStatusCodes:
+      - 412
+  - name: 412 - DELETE
+    url: https://httpstatus.xyz/412
+    method: DELETE
+    expectedStatusCodes:
+      - 412
+  - name: 412 - COPY
+    url: https://httpstatus.xyz/412
+    method: COPY
+    expectedStatusCodes:
+      - 412
+  - name: 412 - HEAD
+    url: https://httpstatus.xyz/412
+    method: HEAD
+    expectedStatusCodes:
+      - 412
+  - name: 412 - OPTIONS
+    url: https://httpstatus.xyz/412
+    method: OPTIONS
+    expectedStatusCodes:
+      - 412
+  - name: 412 - LOCK
+    url: https://httpstatus.xyz/412
+    method: LOCK
+    expectedStatusCodes:
+      - 412
+  - name: 412 - UNLOCK
+    url: https://httpstatus.xyz/412
+    method: UNLOCK
+    expectedStatusCodes:
+      - 412
+  - name: 412 - PROPFIND
+    url: https://httpstatus.xyz/412
+    method: PROPFIND
+    expectedStatusCodes:
+      - 412
+  - name: 413 - GET
+    url: https://httpstatus.xyz/413
+    method: GET
+    expectedStatusCodes:
+      - 413
+  - name: 413 - POST
+    url: https://httpstatus.xyz/413
+    method: POST
+    expectedStatusCodes:
+      - 413
+  - name: 413 - PUT
+    url: https://httpstatus.xyz/413
+    method: PUT
+    expectedStatusCodes:
+      - 413
+  - name: 413 - PATCH
+    url: https://httpstatus.xyz/413
+    method: PATCH
+    expectedStatusCodes:
+      - 413
+  - name: 413 - DELETE
+    url: https://httpstatus.xyz/413
+    method: DELETE
+    expectedStatusCodes:
+      - 413
+  - name: 413 - COPY
+    url: https://httpstatus.xyz/413
+    method: COPY
+    expectedStatusCodes:
+      - 413
+  - name: 413 - HEAD
+    url: https://httpstatus.xyz/413
+    method: HEAD
+    expectedStatusCodes:
+      - 413
+  - name: 413 - OPTIONS
+    url: https://httpstatus.xyz/413
+    method: OPTIONS
+    expectedStatusCodes:
+      - 413
+  - name: 413 - LOCK
+    url: https://httpstatus.xyz/413
+    method: LOCK
+    expectedStatusCodes:
+      - 413
+  - name: 413 - UNLOCK
+    url: https://httpstatus.xyz/413
+    method: UNLOCK
+    expectedStatusCodes:
+      - 413
+  - name: 413 - PROPFIND
+    url: https://httpstatus.xyz/413
+    method: PROPFIND
+    expectedStatusCodes:
+      - 413
+  - name: 414 - GET
+    url: https://httpstatus.xyz/414
+    method: GET
+    expectedStatusCodes:
+      - 414
+  - name: 414 - POST
+    url: https://httpstatus.xyz/414
+    method: POST
+    expectedStatusCodes:
+      - 414
+  - name: 414 - PUT
+    url: https://httpstatus.xyz/414
+    method: PUT
+    expectedStatusCodes:
+      - 414
+  - name: 414 - PATCH
+    url: https://httpstatus.xyz/414
+    method: PATCH
+    expectedStatusCodes:
+      - 414
+  - name: 414 - DELETE
+    url: https://httpstatus.xyz/414
+    method: DELETE
+    expectedStatusCodes:
+      - 414
+  - name: 414 - COPY
+    url: https://httpstatus.xyz/414
+    method: COPY
+    expectedStatusCodes:
+      - 414
+  - name: 414 - HEAD
+    url: https://httpstatus.xyz/414
+    method: HEAD
+    expectedStatusCodes:
+      - 414
+  - name: 414 - OPTIONS
+    url: https://httpstatus.xyz/414
+    method: OPTIONS
+    expectedStatusCodes:
+      - 414
+  - name: 414 - LOCK
+    url: https://httpstatus.xyz/414
+    method: LOCK
+    expectedStatusCodes:
+      - 414
+  - name: 414 - UNLOCK
+    url: https://httpstatus.xyz/414
+    method: UNLOCK
+    expectedStatusCodes:
+      - 414
+  - name: 414 - PROPFIND
+    url: https://httpstatus.xyz/414
+    method: PROPFIND
+    expectedStatusCodes:
+      - 414
+  - name: 415 - GET
+    url: https://httpstatus.xyz/415
+    method: GET
+    expectedStatusCodes:
+      - 415
+  - name: 415 - POST
+    url: https://httpstatus.xyz/415
+    method: POST
+    expectedStatusCodes:
+      - 415
+  - name: 415 - PUT
+    url: https://httpstatus.xyz/415
+    method: PUT
+    expectedStatusCodes:
+      - 415
+  - name: 415 - PATCH
+    url: https://httpstatus.xyz/415
+    method: PATCH
+    expectedStatusCodes:
+      - 415
+  - name: 415 - DELETE
+    url: https://httpstatus.xyz/415
+    method: DELETE
+    expectedStatusCodes:
+      - 415
+  - name: 415 - COPY
+    url: https://httpstatus.xyz/415
+    method: COPY
+    expectedStatusCodes:
+      - 415
+  - name: 415 - HEAD
+    url: https://httpstatus.xyz/415
+    method: HEAD
+    expectedStatusCodes:
+      - 415
+  - name: 415 - OPTIONS
+    url: https://httpstatus.xyz/415
+    method: OPTIONS
+    expectedStatusCodes:
+      - 415
+  - name: 415 - LOCK
+    url: https://httpstatus.xyz/415
+    method: LOCK
+    expectedStatusCodes:
+      - 415
+  - name: 415 - UNLOCK
+    url: https://httpstatus.xyz/415
+    method: UNLOCK
+    expectedStatusCodes:
+      - 415
+  - name: 415 - PROPFIND
+    url: https://httpstatus.xyz/415
+    method: PROPFIND
+    expectedStatusCodes:
+      - 415
+  - name: 416 - GET
+    url: https://httpstatus.xyz/416
+    method: GET
+    expectedStatusCodes:
+      - 416
+  - name: 416 - POST
+    url: https://httpstatus.xyz/416
+    method: POST
+    expectedStatusCodes:
+      - 416
+  - name: 416 - PUT
+    url: https://httpstatus.xyz/416
+    method: PUT
+    expectedStatusCodes:
+      - 416
+  - name: 416 - PATCH
+    url: https://httpstatus.xyz/416
+    method: PATCH
+    expectedStatusCodes:
+      - 416
+  - name: 416 - DELETE
+    url: https://httpstatus.xyz/416
+    method: DELETE
+    expectedStatusCodes:
+      - 416
+  - name: 416 - COPY
+    url: https://httpstatus.xyz/416
+    method: COPY
+    expectedStatusCodes:
+      - 416
+  - name: 416 - HEAD
+    url: https://httpstatus.xyz/416
+    method: HEAD
+    expectedStatusCodes:
+      - 416
+  - name: 416 - OPTIONS
+    url: https://httpstatus.xyz/416
+    method: OPTIONS
+    expectedStatusCodes:
+      - 416
+  - name: 416 - LOCK
+    url: https://httpstatus.xyz/416
+    method: LOCK
+    expectedStatusCodes:
+      - 416
+  - name: 416 - UNLOCK
+    url: https://httpstatus.xyz/416
+    method: UNLOCK
+    expectedStatusCodes:
+      - 416
+  - name: 416 - PROPFIND
+    url: https://httpstatus.xyz/416
+    method: PROPFIND
+    expectedStatusCodes:
+      - 416
+  - name: 417 - GET
+    url: https://httpstatus.xyz/417
+    method: GET
+    expectedStatusCodes:
+      - 417
+  - name: 417 - POST
+    url: https://httpstatus.xyz/417
+    method: POST
+    expectedStatusCodes:
+      - 417
+  - name: 417 - PUT
+    url: https://httpstatus.xyz/417
+    method: PUT
+    expectedStatusCodes:
+      - 417
+  - name: 417 - PATCH
+    url: https://httpstatus.xyz/417
+    method: PATCH
+    expectedStatusCodes:
+      - 417
+  - name: 417 - DELETE
+    url: https://httpstatus.xyz/417
+    method: DELETE
+    expectedStatusCodes:
+      - 417
+  - name: 417 - COPY
+    url: https://httpstatus.xyz/417
+    method: COPY
+    expectedStatusCodes:
+      - 417
+  - name: 417 - HEAD
+    url: https://httpstatus.xyz/417
+    method: HEAD
+    expectedStatusCodes:
+      - 417
+  - name: 417 - OPTIONS
+    url: https://httpstatus.xyz/417
+    method: OPTIONS
+    expectedStatusCodes:
+      - 417
+  - name: 417 - LOCK
+    url: https://httpstatus.xyz/417
+    method: LOCK
+    expectedStatusCodes:
+      - 417
+  - name: 417 - UNLOCK
+    url: https://httpstatus.xyz/417
+    method: UNLOCK
+    expectedStatusCodes:
+      - 417
+  - name: 417 - PROPFIND
+    url: https://httpstatus.xyz/417
+    method: PROPFIND
+    expectedStatusCodes:
+      - 417
+  - name: 418 - GET
+    url: https://httpstatus.xyz/418
+    method: GET
+    expectedStatusCodes:
+      - 418
+  - name: 418 - POST
+    url: https://httpstatus.xyz/418
+    method: POST
+    expectedStatusCodes:
+      - 418
+  - name: 418 - PUT
+    url: https://httpstatus.xyz/418
+    method: PUT
+    expectedStatusCodes:
+      - 418
+  - name: 418 - PATCH
+    url: https://httpstatus.xyz/418
+    method: PATCH
+    expectedStatusCodes:
+      - 418
+  - name: 418 - DELETE
+    url: https://httpstatus.xyz/418
+    method: DELETE
+    expectedStatusCodes:
+      - 418
+  - name: 418 - COPY
+    url: https://httpstatus.xyz/418
+    method: COPY
+    expectedStatusCodes:
+      - 418
+  - name: 418 - HEAD
+    url: https://httpstatus.xyz/418
+    method: HEAD
+    expectedStatusCodes:
+      - 418
+  - name: 418 - OPTIONS
+    url: https://httpstatus.xyz/418
+    method: OPTIONS
+    expectedStatusCodes:
+      - 418
+  - name: 418 - LOCK
+    url: https://httpstatus.xyz/418
+    method: LOCK
+    expectedStatusCodes:
+      - 418
+  - name: 418 - UNLOCK
+    url: https://httpstatus.xyz/418
+    method: UNLOCK
+    expectedStatusCodes:
+      - 418
+  - name: 418 - PROPFIND
+    url: https://httpstatus.xyz/418
+    method: PROPFIND
+    expectedStatusCodes:
+      - 418
+  - name: 421 - GET
+    url: https://httpstatus.xyz/421
+    method: GET
+    expectedStatusCodes:
+      - 421
+  - name: 421 - POST
+    url: https://httpstatus.xyz/421
+    method: POST
+    expectedStatusCodes:
+      - 421
+  - name: 421 - PUT
+    url: https://httpstatus.xyz/421
+    method: PUT
+    expectedStatusCodes:
+      - 421
+  - name: 421 - PATCH
+    url: https://httpstatus.xyz/421
+    method: PATCH
+    expectedStatusCodes:
+      - 421
+  - name: 421 - DELETE
+    url: https://httpstatus.xyz/421
+    method: DELETE
+    expectedStatusCodes:
+      - 421
+  - name: 421 - COPY
+    url: https://httpstatus.xyz/421
+    method: COPY
+    expectedStatusCodes:
+      - 421
+  - name: 421 - HEAD
+    url: https://httpstatus.xyz/421
+    method: HEAD
+    expectedStatusCodes:
+      - 421
+  - name: 421 - OPTIONS
+    url: https://httpstatus.xyz/421
+    method: OPTIONS
+    expectedStatusCodes:
+      - 421
+  - name: 421 - LOCK
+    url: https://httpstatus.xyz/421
+    method: LOCK
+    expectedStatusCodes:
+      - 421
+  - name: 421 - UNLOCK
+    url: https://httpstatus.xyz/421
+    method: UNLOCK
+    expectedStatusCodes:
+      - 421
+  - name: 421 - PROPFIND
+    url: https://httpstatus.xyz/421
+    method: PROPFIND
+    expectedStatusCodes:
+      - 421
+  - name: 422 - GET
+    url: https://httpstatus.xyz/422
+    method: GET
+    expectedStatusCodes:
+      - 422
+  - name: 422 - POST
+    url: https://httpstatus.xyz/422
+    method: POST
+    expectedStatusCodes:
+      - 422
+  - name: 422 - PUT
+    url: https://httpstatus.xyz/422
+    method: PUT
+    expectedStatusCodes:
+      - 422
+  - name: 422 - PATCH
+    url: https://httpstatus.xyz/422
+    method: PATCH
+    expectedStatusCodes:
+      - 422
+  - name: 422 - DELETE
+    url: https://httpstatus.xyz/422
+    method: DELETE
+    expectedStatusCodes:
+      - 422
+  - name: 422 - COPY
+    url: https://httpstatus.xyz/422
+    method: COPY
+    expectedStatusCodes:
+      - 422
+  - name: 422 - HEAD
+    url: https://httpstatus.xyz/422
+    method: HEAD
+    expectedStatusCodes:
+      - 422
+  - name: 422 - OPTIONS
+    url: https://httpstatus.xyz/422
+    method: OPTIONS
+    expectedStatusCodes:
+      - 422
+  - name: 422 - LOCK
+    url: https://httpstatus.xyz/422
+    method: LOCK
+    expectedStatusCodes:
+      - 422
+  - name: 422 - UNLOCK
+    url: https://httpstatus.xyz/422
+    method: UNLOCK
+    expectedStatusCodes:
+      - 422
+  - name: 422 - PROPFIND
+    url: https://httpstatus.xyz/422
+    method: PROPFIND
+    expectedStatusCodes:
+      - 422
+  - name: 423 - GET
+    url: https://httpstatus.xyz/423
+    method: GET
+    expectedStatusCodes:
+      - 423
+  - name: 423 - POST
+    url: https://httpstatus.xyz/423
+    method: POST
+    expectedStatusCodes:
+      - 423
+  - name: 423 - PUT
+    url: https://httpstatus.xyz/423
+    method: PUT
+    expectedStatusCodes:
+      - 423
+  - name: 423 - PATCH
+    url: https://httpstatus.xyz/423
+    method: PATCH
+    expectedStatusCodes:
+      - 423
+  - name: 423 - DELETE
+    url: https://httpstatus.xyz/423
+    method: DELETE
+    expectedStatusCodes:
+      - 423
+  - name: 423 - COPY
+    url: https://httpstatus.xyz/423
+    method: COPY
+    expectedStatusCodes:
+      - 423
+  - name: 423 - HEAD
+    url: https://httpstatus.xyz/423
+    method: HEAD
+    expectedStatusCodes:
+      - 423
+  - name: 423 - OPTIONS
+    url: https://httpstatus.xyz/423
+    method: OPTIONS
+    expectedStatusCodes:
+      - 423
+  - name: 423 - LOCK
+    url: https://httpstatus.xyz/423
+    method: LOCK
+    expectedStatusCodes:
+      - 423
+  - name: 423 - UNLOCK
+    url: https://httpstatus.xyz/423
+    method: UNLOCK
+    expectedStatusCodes:
+      - 423
+  - name: 423 - PROPFIND
+    url: https://httpstatus.xyz/423
+    method: PROPFIND
+    expectedStatusCodes:
+      - 423
+  - name: 424 - GET
+    url: https://httpstatus.xyz/424
+    method: GET
+    expectedStatusCodes:
+      - 424
+  - name: 424 - POST
+    url: https://httpstatus.xyz/424
+    method: POST
+    expectedStatusCodes:
+      - 424
+  - name: 424 - PUT
+    url: https://httpstatus.xyz/424
+    method: PUT
+    expectedStatusCodes:
+      - 424
+  - name: 424 - PATCH
+    url: https://httpstatus.xyz/424
+    method: PATCH
+    expectedStatusCodes:
+      - 424
+  - name: 424 - DELETE
+    url: https://httpstatus.xyz/424
+    method: DELETE
+    expectedStatusCodes:
+      - 424
+  - name: 424 - COPY
+    url: https://httpstatus.xyz/424
+    method: COPY
+    expectedStatusCodes:
+      - 424
+  - name: 424 - HEAD
+    url: https://httpstatus.xyz/424
+    method: HEAD
+    expectedStatusCodes:
+      - 424
+  - name: 424 - OPTIONS
+    url: https://httpstatus.xyz/424
+    method: OPTIONS
+    expectedStatusCodes:
+      - 424
+  - name: 424 - LOCK
+    url: https://httpstatus.xyz/424
+    method: LOCK
+    expectedStatusCodes:
+      - 424
+  - name: 424 - UNLOCK
+    url: https://httpstatus.xyz/424
+    method: UNLOCK
+    expectedStatusCodes:
+      - 424
+  - name: 424 - PROPFIND
+    url: https://httpstatus.xyz/424
+    method: PROPFIND
+    expectedStatusCodes:
+      - 424
+  - name: 425 - GET
+    url: https://httpstatus.xyz/425
+    method: GET
+    expectedStatusCodes:
+      - 425
+  - name: 425 - POST
+    url: https://httpstatus.xyz/425
+    method: POST
+    expectedStatusCodes:
+      - 425
+  - name: 425 - PUT
+    url: https://httpstatus.xyz/425
+    method: PUT
+    expectedStatusCodes:
+      - 425
+  - name: 425 - PATCH
+    url: https://httpstatus.xyz/425
+    method: PATCH
+    expectedStatusCodes:
+      - 425
+  - name: 425 - DELETE
+    url: https://httpstatus.xyz/425
+    method: DELETE
+    expectedStatusCodes:
+      - 425
+  - name: 425 - COPY
+    url: https://httpstatus.xyz/425
+    method: COPY
+    expectedStatusCodes:
+      - 425
+  - name: 425 - HEAD
+    url: https://httpstatus.xyz/425
+    method: HEAD
+    expectedStatusCodes:
+      - 425
+  - name: 425 - OPTIONS
+    url: https://httpstatus.xyz/425
+    method: OPTIONS
+    expectedStatusCodes:
+      - 425
+  - name: 425 - LOCK
+    url: https://httpstatus.xyz/425
+    method: LOCK
+    expectedStatusCodes:
+      - 425
+  - name: 425 - UNLOCK
+    url: https://httpstatus.xyz/425
+    method: UNLOCK
+    expectedStatusCodes:
+      - 425
+  - name: 425 - PROPFIND
+    url: https://httpstatus.xyz/425
+    method: PROPFIND
+    expectedStatusCodes:
+      - 425
+  - name: 426 - GET
+    url: https://httpstatus.xyz/426
+    method: GET
+    expectedStatusCodes:
+      - 426
+  - name: 426 - POST
+    url: https://httpstatus.xyz/426
+    method: POST
+    expectedStatusCodes:
+      - 426
+  - name: 426 - PUT
+    url: https://httpstatus.xyz/426
+    method: PUT
+    expectedStatusCodes:
+      - 426
+  - name: 426 - PATCH
+    url: https://httpstatus.xyz/426
+    method: PATCH
+    expectedStatusCodes:
+      - 426
+  - name: 426 - DELETE
+    url: https://httpstatus.xyz/426
+    method: DELETE
+    expectedStatusCodes:
+      - 426
+  - name: 426 - COPY
+    url: https://httpstatus.xyz/426
+    method: COPY
+    expectedStatusCodes:
+      - 426
+  - name: 426 - HEAD
+    url: https://httpstatus.xyz/426
+    method: HEAD
+    expectedStatusCodes:
+      - 426
+  - name: 426 - OPTIONS
+    url: https://httpstatus.xyz/426
+    method: OPTIONS
+    expectedStatusCodes:
+      - 426
+  - name: 426 - LOCK
+    url: https://httpstatus.xyz/426
+    method: LOCK
+    expectedStatusCodes:
+      - 426
+  - name: 426 - UNLOCK
+    url: https://httpstatus.xyz/426
+    method: UNLOCK
+    expectedStatusCodes:
+      - 426
+  - name: 426 - PROPFIND
+    url: https://httpstatus.xyz/426
+    method: PROPFIND
+    expectedStatusCodes:
+      - 426
+  - name: 428 - GET
+    url: https://httpstatus.xyz/428
+    method: GET
+    expectedStatusCodes:
+      - 428
+  - name: 428 - POST
+    url: https://httpstatus.xyz/428
+    method: POST
+    expectedStatusCodes:
+      - 428
+  - name: 428 - PUT
+    url: https://httpstatus.xyz/428
+    method: PUT
+    expectedStatusCodes:
+      - 428
+  - name: 428 - PATCH
+    url: https://httpstatus.xyz/428
+    method: PATCH
+    expectedStatusCodes:
+      - 428
+  - name: 428 - DELETE
+    url: https://httpstatus.xyz/428
+    method: DELETE
+    expectedStatusCodes:
+      - 428
+  - name: 428 - COPY
+    url: https://httpstatus.xyz/428
+    method: COPY
+    expectedStatusCodes:
+      - 428
+  - name: 428 - HEAD
+    url: https://httpstatus.xyz/428
+    method: HEAD
+    expectedStatusCodes:
+      - 428
+  - name: 428 - OPTIONS
+    url: https://httpstatus.xyz/428
+    method: OPTIONS
+    expectedStatusCodes:
+      - 428
+  - name: 428 - LOCK
+    url: https://httpstatus.xyz/428
+    method: LOCK
+    expectedStatusCodes:
+      - 428
+  - name: 428 - UNLOCK
+    url: https://httpstatus.xyz/428
+    method: UNLOCK
+    expectedStatusCodes:
+      - 428
+  - name: 428 - PROPFIND
+    url: https://httpstatus.xyz/428
+    method: PROPFIND
+    expectedStatusCodes:
+      - 428
+  - name: 429 - GET
+    url: https://httpstatus.xyz/429
+    method: GET
+    expectedStatusCodes:
+      - 429
+  - name: 429 - POST
+    url: https://httpstatus.xyz/429
+    method: POST
+    expectedStatusCodes:
+      - 429
+  - name: 429 - PUT
+    url: https://httpstatus.xyz/429
+    method: PUT
+    expectedStatusCodes:
+      - 429
+  - name: 429 - PATCH
+    url: https://httpstatus.xyz/429
+    method: PATCH
+    expectedStatusCodes:
+      - 429
+  - name: 429 - DELETE
+    url: https://httpstatus.xyz/429
+    method: DELETE
+    expectedStatusCodes:
+      - 429
+  - name: 429 - COPY
+    url: https://httpstatus.xyz/429
+    method: COPY
+    expectedStatusCodes:
+      - 429
+  - name: 429 - HEAD
+    url: https://httpstatus.xyz/429
+    method: HEAD
+    expectedStatusCodes:
+      - 429
+  - name: 429 - OPTIONS
+    url: https://httpstatus.xyz/429
+    method: OPTIONS
+    expectedStatusCodes:
+      - 429
+  - name: 429 - LOCK
+    url: https://httpstatus.xyz/429
+    method: LOCK
+    expectedStatusCodes:
+      - 429
+  - name: 429 - UNLOCK
+    url: https://httpstatus.xyz/429
+    method: UNLOCK
+    expectedStatusCodes:
+      - 429
+  - name: 429 - PROPFIND
+    url: https://httpstatus.xyz/429
+    method: PROPFIND
+    expectedStatusCodes:
+      - 429
+  - name: 431 - GET
+    url: https://httpstatus.xyz/431
+    method: GET
+    expectedStatusCodes:
+      - 431
+  - name: 431 - POST
+    url: https://httpstatus.xyz/431
+    method: POST
+    expectedStatusCodes:
+      - 431
+  - name: 431 - PUT
+    url: https://httpstatus.xyz/431
+    method: PUT
+    expectedStatusCodes:
+      - 431
+  - name: 431 - PATCH
+    url: https://httpstatus.xyz/431
+    method: PATCH
+    expectedStatusCodes:
+      - 431
+  - name: 431 - DELETE
+    url: https://httpstatus.xyz/431
+    method: DELETE
+    expectedStatusCodes:
+      - 431
+  - name: 431 - COPY
+    url: https://httpstatus.xyz/431
+    method: COPY
+    expectedStatusCodes:
+      - 431
+  - name: 431 - HEAD
+    url: https://httpstatus.xyz/431
+    method: HEAD
+    expectedStatusCodes:
+      - 431
+  - name: 431 - OPTIONS
+    url: https://httpstatus.xyz/431
+    method: OPTIONS
+    expectedStatusCodes:
+      - 431
+  - name: 431 - LOCK
+    url: https://httpstatus.xyz/431
+    method: LOCK
+    expectedStatusCodes:
+      - 431
+  - name: 431 - UNLOCK
+    url: https://httpstatus.xyz/431
+    method: UNLOCK
+    expectedStatusCodes:
+      - 431
+  - name: 431 - PROPFIND
+    url: https://httpstatus.xyz/431
+    method: PROPFIND
+    expectedStatusCodes:
+      - 431
+  - name: 451 - GET
+    url: https://httpstatus.xyz/451
+    method: GET
+    expectedStatusCodes:
+      - 451
+  - name: 451 - POST
+    url: https://httpstatus.xyz/451
+    method: POST
+    expectedStatusCodes:
+      - 451
+  - name: 451 - PUT
+    url: https://httpstatus.xyz/451
+    method: PUT
+    expectedStatusCodes:
+      - 451
+  - name: 451 - PATCH
+    url: https://httpstatus.xyz/451
+    method: PATCH
+    expectedStatusCodes:
+      - 451
+  - name: 451 - DELETE
+    url: https://httpstatus.xyz/451
+    method: DELETE
+    expectedStatusCodes:
+      - 451
+  - name: 451 - COPY
+    url: https://httpstatus.xyz/451
+    method: COPY
+    expectedStatusCodes:
+      - 451
+  - name: 451 - HEAD
+    url: https://httpstatus.xyz/451
+    method: HEAD
+    expectedStatusCodes:
+      - 451
+  - name: 451 - OPTIONS
+    url: https://httpstatus.xyz/451
+    method: OPTIONS
+    expectedStatusCodes:
+      - 451
+  - name: 451 - LOCK
+    url: https://httpstatus.xyz/451
+    method: LOCK
+    expectedStatusCodes:
+      - 451
+  - name: 451 - UNLOCK
+    url: https://httpstatus.xyz/451
+    method: UNLOCK
+    expectedStatusCodes:
+      - 451
+  - name: 451 - PROPFIND
+    url: https://httpstatus.xyz/451
+    method: PROPFIND
+    expectedStatusCodes:
+      - 451
+  - name: 500 - GET
+    url: https://httpstatus.xyz/500
+    method: GET
+    expectedStatusCodes:
+      - 500
+  - name: 500 - POST
+    url: https://httpstatus.xyz/500
+    method: POST
+    expectedStatusCodes:
+      - 500
+  - name: 500 - PUT
+    url: https://httpstatus.xyz/500
+    method: PUT
+    expectedStatusCodes:
+      - 500
+  - name: 500 - PATCH
+    url: https://httpstatus.xyz/500
+    method: PATCH
+    expectedStatusCodes:
+      - 500
+  - name: 500 - DELETE
+    url: https://httpstatus.xyz/500
+    method: DELETE
+    expectedStatusCodes:
+      - 500
+  - name: 500 - COPY
+    url: https://httpstatus.xyz/500
+    method: COPY
+    expectedStatusCodes:
+      - 500
+  - name: 500 - HEAD
+    url: https://httpstatus.xyz/500
+    method: HEAD
+    expectedStatusCodes:
+      - 500
+  - name: 500 - OPTIONS
+    url: https://httpstatus.xyz/500
+    method: OPTIONS
+    expectedStatusCodes:
+      - 500
+  - name: 500 - LOCK
+    url: https://httpstatus.xyz/500
+    method: LOCK
+    expectedStatusCodes:
+      - 500
+  - name: 500 - UNLOCK
+    url: https://httpstatus.xyz/500
+    method: UNLOCK
+    expectedStatusCodes:
+      - 500
+  - name: 500 - PROPFIND
+    url: https://httpstatus.xyz/500
+    method: PROPFIND
+    expectedStatusCodes:
+      - 500
+  - name: 501 - GET
+    url: https://httpstatus.xyz/501
+    method: GET
+    expectedStatusCodes:
+      - 501
+  - name: 501 - POST
+    url: https://httpstatus.xyz/501
+    method: POST
+    expectedStatusCodes:
+      - 501
+  - name: 501 - PUT
+    url: https://httpstatus.xyz/501
+    method: PUT
+    expectedStatusCodes:
+      - 501
+  - name: 501 - PATCH
+    url: https://httpstatus.xyz/501
+    method: PATCH
+    expectedStatusCodes:
+      - 501
+  - name: 501 - DELETE
+    url: https://httpstatus.xyz/501
+    method: DELETE
+    expectedStatusCodes:
+      - 501
+  - name: 501 - COPY
+    url: https://httpstatus.xyz/501
+    method: COPY
+    expectedStatusCodes:
+      - 501
+  - name: 501 - HEAD
+    url: https://httpstatus.xyz/501
+    method: HEAD
+    expectedStatusCodes:
+      - 501
+  - name: 501 - OPTIONS
+    url: https://httpstatus.xyz/501
+    method: OPTIONS
+    expectedStatusCodes:
+      - 501
+  - name: 501 - LOCK
+    url: https://httpstatus.xyz/501
+    method: LOCK
+    expectedStatusCodes:
+      - 501
+  - name: 501 - UNLOCK
+    url: https://httpstatus.xyz/501
+    method: UNLOCK
+    expectedStatusCodes:
+      - 501
+  - name: 501 - PROPFIND
+    url: https://httpstatus.xyz/501
+    method: PROPFIND
+    expectedStatusCodes:
+      - 501
+  - name: 502 - GET
+    url: https://httpstatus.xyz/502
+    method: GET
+    expectedStatusCodes:
+      - 502
+  - name: 502 - POST
+    url: https://httpstatus.xyz/502
+    method: POST
+    expectedStatusCodes:
+      - 502
+  - name: 502 - PUT
+    url: https://httpstatus.xyz/502
+    method: PUT
+    expectedStatusCodes:
+      - 502
+  - name: 502 - PATCH
+    url: https://httpstatus.xyz/502
+    method: PATCH
+    expectedStatusCodes:
+      - 502
+  - name: 502 - DELETE
+    url: https://httpstatus.xyz/502
+    method: DELETE
+    expectedStatusCodes:
+      - 502
+  - name: 502 - COPY
+    url: https://httpstatus.xyz/502
+    method: COPY
+    expectedStatusCodes:
+      - 502
+  - name: 502 - HEAD
+    url: https://httpstatus.xyz/502
+    method: HEAD
+    expectedStatusCodes:
+      - 502
+  - name: 502 - OPTIONS
+    url: https://httpstatus.xyz/502
+    method: OPTIONS
+    expectedStatusCodes:
+      - 502
+  - name: 502 - LOCK
+    url: https://httpstatus.xyz/502
+    method: LOCK
+    expectedStatusCodes:
+      - 502
+  - name: 502 - UNLOCK
+    url: https://httpstatus.xyz/502
+    method: UNLOCK
+    expectedStatusCodes:
+      - 502
+  - name: 502 - PROPFIND
+    url: https://httpstatus.xyz/502
+    method: PROPFIND
+    expectedStatusCodes:
+      - 502
+  - name: 503 - GET
+    url: https://httpstatus.xyz/503
+    method: GET
+    expectedStatusCodes:
+      - 503
+  - name: 503 - POST
+    url: https://httpstatus.xyz/503
+    method: POST
+    expectedStatusCodes:
+      - 503
+  - name: 503 - PUT
+    url: https://httpstatus.xyz/503
+    method: PUT
+    expectedStatusCodes:
+      - 503
+  - name: 503 - PATCH
+    url: https://httpstatus.xyz/503
+    method: PATCH
+    expectedStatusCodes:
+      - 503
+  - name: 503 - DELETE
+    url: https://httpstatus.xyz/503
+    method: DELETE
+    expectedStatusCodes:
+      - 503
+  - name: 503 - COPY
+    url: https://httpstatus.xyz/503
+    method: COPY
+    expectedStatusCodes:
+      - 503
+  - name: 503 - HEAD
+    url: https://httpstatus.xyz/503
+    method: HEAD
+    expectedStatusCodes:
+      - 503
+  - name: 503 - OPTIONS
+    url: https://httpstatus.xyz/503
+    method: OPTIONS
+    expectedStatusCodes:
+      - 503
+  - name: 503 - LOCK
+    url: https://httpstatus.xyz/503
+    method: LOCK
+    expectedStatusCodes:
+      - 503
+  - name: 503 - UNLOCK
+    url: https://httpstatus.xyz/503
+    method: UNLOCK
+    expectedStatusCodes:
+      - 503
+  - name: 503 - PROPFIND
+    url: https://httpstatus.xyz/503
+    method: PROPFIND
+    expectedStatusCodes:
+      - 503
+  - name: 504 - GET
+    url: https://httpstatus.xyz/504
+    method: GET
+    expectedStatusCodes:
+      - 504
+  - name: 504 - POST
+    url: https://httpstatus.xyz/504
+    method: POST
+    expectedStatusCodes:
+      - 504
+  - name: 504 - PUT
+    url: https://httpstatus.xyz/504
+    method: PUT
+    expectedStatusCodes:
+      - 504
+  - name: 504 - PATCH
+    url: https://httpstatus.xyz/504
+    method: PATCH
+    expectedStatusCodes:
+      - 504
+  - name: 504 - DELETE
+    url: https://httpstatus.xyz/504
+    method: DELETE
+    expectedStatusCodes:
+      - 504
+  - name: 504 - COPY
+    url: https://httpstatus.xyz/504
+    method: COPY
+    expectedStatusCodes:
+      - 504
+  - name: 504 - HEAD
+    url: https://httpstatus.xyz/504
+    method: HEAD
+    expectedStatusCodes:
+      - 504
+  - name: 504 - OPTIONS
+    url: https://httpstatus.xyz/504
+    method: OPTIONS
+    expectedStatusCodes:
+      - 504
+  - name: 504 - LOCK
+    url: https://httpstatus.xyz/504
+    method: LOCK
+    expectedStatusCodes:
+      - 504
+  - name: 504 - UNLOCK
+    url: https://httpstatus.xyz/504
+    method: UNLOCK
+    expectedStatusCodes:
+      - 504
+  - name: 504 - PROPFIND
+    url: https://httpstatus.xyz/504
+    method: PROPFIND
+    expectedStatusCodes:
+      - 504
+  - name: 505 - GET
+    url: https://httpstatus.xyz/505
+    method: GET
+    expectedStatusCodes:
+      - 505
+  - name: 505 - POST
+    url: https://httpstatus.xyz/505
+    method: POST
+    expectedStatusCodes:
+      - 505
+  - name: 505 - PUT
+    url: https://httpstatus.xyz/505
+    method: PUT
+    expectedStatusCodes:
+      - 505
+  - name: 505 - PATCH
+    url: https://httpstatus.xyz/505
+    method: PATCH
+    expectedStatusCodes:
+      - 505
+  - name: 505 - DELETE
+    url: https://httpstatus.xyz/505
+    method: DELETE
+    expectedStatusCodes:
+      - 505
+  - name: 505 - COPY
+    url: https://httpstatus.xyz/505
+    method: COPY
+    expectedStatusCodes:
+      - 505
+  - name: 505 - HEAD
+    url: https://httpstatus.xyz/505
+    method: HEAD
+    expectedStatusCodes:
+      - 505
+  - name: 505 - OPTIONS
+    url: https://httpstatus.xyz/505
+    method: OPTIONS
+    expectedStatusCodes:
+      - 505
+  - name: 505 - LOCK
+    url: https://httpstatus.xyz/505
+    method: LOCK
+    expectedStatusCodes:
+      - 505
+  - name: 505 - UNLOCK
+    url: https://httpstatus.xyz/505
+    method: UNLOCK
+    expectedStatusCodes:
+      - 505
+  - name: 505 - PROPFIND
+    url: https://httpstatus.xyz/505
+    method: PROPFIND
+    expectedStatusCodes:
+      - 505
+  - name: 506 - GET
+    url: https://httpstatus.xyz/506
+    method: GET
+    expectedStatusCodes:
+      - 506
+  - name: 506 - POST
+    url: https://httpstatus.xyz/506
+    method: POST
+    expectedStatusCodes:
+      - 506
+  - name: 506 - PUT
+    url: https://httpstatus.xyz/506
+    method: PUT
+    expectedStatusCodes:
+      - 506
+  - name: 506 - PATCH
+    url: https://httpstatus.xyz/506
+    method: PATCH
+    expectedStatusCodes:
+      - 506
+  - name: 506 - DELETE
+    url: https://httpstatus.xyz/506
+    method: DELETE
+    expectedStatusCodes:
+      - 506
+  - name: 506 - COPY
+    url: https://httpstatus.xyz/506
+    method: COPY
+    expectedStatusCodes:
+      - 506
+  - name: 506 - HEAD
+    url: https://httpstatus.xyz/506
+    method: HEAD
+    expectedStatusCodes:
+      - 506
+  - name: 506 - OPTIONS
+    url: https://httpstatus.xyz/506
+    method: OPTIONS
+    expectedStatusCodes:
+      - 506
+  - name: 506 - LOCK
+    url: https://httpstatus.xyz/506
+    method: LOCK
+    expectedStatusCodes:
+      - 506
+  - name: 506 - UNLOCK
+    url: https://httpstatus.xyz/506
+    method: UNLOCK
+    expectedStatusCodes:
+      - 506
+  - name: 506 - PROPFIND
+    url: https://httpstatus.xyz/506
+    method: PROPFIND
+    expectedStatusCodes:
+      - 506
+  - name: 507 - GET
+    url: https://httpstatus.xyz/507
+    method: GET
+    expectedStatusCodes:
+      - 507
+  - name: 507 - POST
+    url: https://httpstatus.xyz/507
+    method: POST
+    expectedStatusCodes:
+      - 507
+  - name: 507 - PUT
+    url: https://httpstatus.xyz/507
+    method: PUT
+    expectedStatusCodes:
+      - 507
+  - name: 507 - PATCH
+    url: https://httpstatus.xyz/507
+    method: PATCH
+    expectedStatusCodes:
+      - 507
+  - name: 507 - DELETE
+    url: https://httpstatus.xyz/507
+    method: DELETE
+    expectedStatusCodes:
+      - 507
+  - name: 507 - COPY
+    url: https://httpstatus.xyz/507
+    method: COPY
+    expectedStatusCodes:
+      - 507
+  - name: 507 - HEAD
+    url: https://httpstatus.xyz/507
+    method: HEAD
+    expectedStatusCodes:
+      - 507
+  - name: 507 - OPTIONS
+    url: https://httpstatus.xyz/507
+    method: OPTIONS
+    expectedStatusCodes:
+      - 507
+  - name: 507 - LOCK
+    url: https://httpstatus.xyz/507
+    method: LOCK
+    expectedStatusCodes:
+      - 507
+  - name: 507 - UNLOCK
+    url: https://httpstatus.xyz/507
+    method: UNLOCK
+    expectedStatusCodes:
+      - 507
+  - name: 507 - PROPFIND
+    url: https://httpstatus.xyz/507
+    method: PROPFIND
+    expectedStatusCodes:
+      - 507
+  - name: 508 - GET
+    url: https://httpstatus.xyz/508
+    method: GET
+    expectedStatusCodes:
+      - 508
+  - name: 508 - POST
+    url: https://httpstatus.xyz/508
+    method: POST
+    expectedStatusCodes:
+      - 508
+  - name: 508 - PUT
+    url: https://httpstatus.xyz/508
+    method: PUT
+    expectedStatusCodes:
+      - 508
+  - name: 508 - PATCH
+    url: https://httpstatus.xyz/508
+    method: PATCH
+    expectedStatusCodes:
+      - 508
+  - name: 508 - DELETE
+    url: https://httpstatus.xyz/508
+    method: DELETE
+    expectedStatusCodes:
+      - 508
+  - name: 508 - COPY
+    url: https://httpstatus.xyz/508
+    method: COPY
+    expectedStatusCodes:
+      - 508
+  - name: 508 - HEAD
+    url: https://httpstatus.xyz/508
+    method: HEAD
+    expectedStatusCodes:
+      - 508
+  - name: 508 - OPTIONS
+    url: https://httpstatus.xyz/508
+    method: OPTIONS
+    expectedStatusCodes:
+      - 508
+  - name: 508 - LOCK
+    url: https://httpstatus.xyz/508
+    method: LOCK
+    expectedStatusCodes:
+      - 508
+  - name: 508 - UNLOCK
+    url: https://httpstatus.xyz/508
+    method: UNLOCK
+    expectedStatusCodes:
+      - 508
+  - name: 508 - PROPFIND
+    url: https://httpstatus.xyz/508
+    method: PROPFIND
+    expectedStatusCodes:
+      - 508
+  - name: 509 - GET
+    url: https://httpstatus.xyz/509
+    method: GET
+    expectedStatusCodes:
+      - 509
+  - name: 509 - POST
+    url: https://httpstatus.xyz/509
+    method: POST
+    expectedStatusCodes:
+      - 509
+  - name: 509 - PUT
+    url: https://httpstatus.xyz/509
+    method: PUT
+    expectedStatusCodes:
+      - 509
+  - name: 509 - PATCH
+    url: https://httpstatus.xyz/509
+    method: PATCH
+    expectedStatusCodes:
+      - 509
+  - name: 509 - DELETE
+    url: https://httpstatus.xyz/509
+    method: DELETE
+    expectedStatusCodes:
+      - 509
+  - name: 509 - COPY
+    url: https://httpstatus.xyz/509
+    method: COPY
+    expectedStatusCodes:
+      - 509
+  - name: 509 - HEAD
+    url: https://httpstatus.xyz/509
+    method: HEAD
+    expectedStatusCodes:
+      - 509
+  - name: 509 - OPTIONS
+    url: https://httpstatus.xyz/509
+    method: OPTIONS
+    expectedStatusCodes:
+      - 509
+  - name: 509 - LOCK
+    url: https://httpstatus.xyz/509
+    method: LOCK
+    expectedStatusCodes:
+      - 509
+  - name: 509 - UNLOCK
+    url: https://httpstatus.xyz/509
+    method: UNLOCK
+    expectedStatusCodes:
+      - 509
+  - name: 509 - PROPFIND
+    url: https://httpstatus.xyz/509
+    method: PROPFIND
+    expectedStatusCodes:
+      - 509
+  - name: 510 - GET
+    url: https://httpstatus.xyz/510
+    method: GET
+    expectedStatusCodes:
+      - 510
+  - name: 510 - POST
+    url: https://httpstatus.xyz/510
+    method: POST
+    expectedStatusCodes:
+      - 510
+  - name: 510 - PUT
+    url: https://httpstatus.xyz/510
+    method: PUT
+    expectedStatusCodes:
+      - 510
+  - name: 510 - PATCH
+    url: https://httpstatus.xyz/510
+    method: PATCH
+    expectedStatusCodes:
+      - 510
+  - name: 510 - DELETE
+    url: https://httpstatus.xyz/510
+    method: DELETE
+    expectedStatusCodes:
+      - 510
+  - name: 510 - COPY
+    url: https://httpstatus.xyz/510
+    method: COPY
+    expectedStatusCodes:
+      - 510
+  - name: 510 - HEAD
+    url: https://httpstatus.xyz/510
+    method: HEAD
+    expectedStatusCodes:
+      - 510
+  - name: 510 - OPTIONS
+    url: https://httpstatus.xyz/510
+    method: OPTIONS
+    expectedStatusCodes:
+      - 510
+  - name: 510 - LOCK
+    url: https://httpstatus.xyz/510
+    method: LOCK
+    expectedStatusCodes:
+      - 510
+  - name: 510 - UNLOCK
+    url: https://httpstatus.xyz/510
+    method: UNLOCK
+    expectedStatusCodes:
+      - 510
+  - name: 510 - PROPFIND
+    url: https://httpstatus.xyz/510
+    method: PROPFIND
+    expectedStatusCodes:
+      - 510
+  - name: 511 - GET
+    url: https://httpstatus.xyz/511
+    method: GET
+    expectedStatusCodes:
+      - 511
+  - name: 511 - POST
+    url: https://httpstatus.xyz/511
+    method: POST
+    expectedStatusCodes:
+      - 511
+  - name: 511 - PUT
+    url: https://httpstatus.xyz/511
+    method: PUT
+    expectedStatusCodes:
+      - 511
+  - name: 511 - PATCH
+    url: https://httpstatus.xyz/511
+    method: PATCH
+    expectedStatusCodes:
+      - 511
+  - name: 511 - DELETE
+    url: https://httpstatus.xyz/511
+    method: DELETE
+    expectedStatusCodes:
+      - 511
+  - name: 511 - COPY
+    url: https://httpstatus.xyz/511
+    method: COPY
+    expectedStatusCodes:
+      - 511
+  - name: 511 - HEAD
+    url: https://httpstatus.xyz/511
+    method: HEAD
+    expectedStatusCodes:
+      - 511
+  - name: 511 - OPTIONS
+    url: https://httpstatus.xyz/511
+    method: OPTIONS
+    expectedStatusCodes:
+      - 511
+  - name: 511 - LOCK
+    url: https://httpstatus.xyz/511
+    method: LOCK
+    expectedStatusCodes:
+      - 511
+  - name: 511 - UNLOCK
+    url: https://httpstatus.xyz/511
+    method: UNLOCK
+    expectedStatusCodes:
+      - 511
+  - name: 511 - PROPFIND
+    url: https://httpstatus.xyz/511
+    method: PROPFIND
+    expectedStatusCodes:
+      - 511
+  - name: 520 - GET
+    url: https://httpstatus.xyz/520
+    method: GET
+    expectedStatusCodes:
+      - 520
+  - name: 520 - POST
+    url: https://httpstatus.xyz/520
+    method: POST
+    expectedStatusCodes:
+      - 520
+  - name: 520 - PUT
+    url: https://httpstatus.xyz/520
+    method: PUT
+    expectedStatusCodes:
+      - 520
+  - name: 520 - PATCH
+    url: https://httpstatus.xyz/520
+    method: PATCH
+    expectedStatusCodes:
+      - 520
+  - name: 520 - DELETE
+    url: https://httpstatus.xyz/520
+    method: DELETE
+    expectedStatusCodes:
+      - 520
+  - name: 520 - COPY
+    url: https://httpstatus.xyz/520
+    method: COPY
+    expectedStatusCodes:
+      - 520
+  - name: 520 - HEAD
+    url: https://httpstatus.xyz/520
+    method: HEAD
+    expectedStatusCodes:
+      - 520
+  - name: 520 - OPTIONS
+    url: https://httpstatus.xyz/520
+    method: OPTIONS
+    expectedStatusCodes:
+      - 520
+  - name: 520 - LOCK
+    url: https://httpstatus.xyz/520
+    method: LOCK
+    expectedStatusCodes:
+      - 520
+  - name: 520 - UNLOCK
+    url: https://httpstatus.xyz/520
+    method: UNLOCK
+    expectedStatusCodes:
+      - 520
+  - name: 520 - PROPFIND
+    url: https://httpstatus.xyz/520
+    method: PROPFIND
+    expectedStatusCodes:
+      - 520
+  - name: 521 - GET
+    url: https://httpstatus.xyz/521
+    method: GET
+    expectedStatusCodes:
+      - 521
+  - name: 521 - POST
+    url: https://httpstatus.xyz/521
+    method: POST
+    expectedStatusCodes:
+      - 521
+  - name: 521 - PUT
+    url: https://httpstatus.xyz/521
+    method: PUT
+    expectedStatusCodes:
+      - 521
+  - name: 521 - PATCH
+    url: https://httpstatus.xyz/521
+    method: PATCH
+    expectedStatusCodes:
+      - 521
+  - name: 521 - DELETE
+    url: https://httpstatus.xyz/521
+    method: DELETE
+    expectedStatusCodes:
+      - 521
+  - name: 521 - COPY
+    url: https://httpstatus.xyz/521
+    method: COPY
+    expectedStatusCodes:
+      - 521
+  - name: 521 - HEAD
+    url: https://httpstatus.xyz/521
+    method: HEAD
+    expectedStatusCodes:
+      - 521
+  - name: 521 - OPTIONS
+    url: https://httpstatus.xyz/521
+    method: OPTIONS
+    expectedStatusCodes:
+      - 521
+  - name: 521 - LOCK
+    url: https://httpstatus.xyz/521
+    method: LOCK
+    expectedStatusCodes:
+      - 521
+  - name: 521 - UNLOCK
+    url: https://httpstatus.xyz/521
+    method: UNLOCK
+    expectedStatusCodes:
+      - 521
+  - name: 521 - PROPFIND
+    url: https://httpstatus.xyz/521
+    method: PROPFIND
+    expectedStatusCodes:
+      - 521
+  - name: 522 - GET
+    url: https://httpstatus.xyz/522
+    method: GET
+    expectedStatusCodes:
+      - 522
+  - name: 522 - POST
+    url: https://httpstatus.xyz/522
+    method: POST
+    expectedStatusCodes:
+      - 522
+  - name: 522 - PUT
+    url: https://httpstatus.xyz/522
+    method: PUT
+    expectedStatusCodes:
+      - 522
+  - name: 522 - PATCH
+    url: https://httpstatus.xyz/522
+    method: PATCH
+    expectedStatusCodes:
+      - 522
+  - name: 522 - DELETE
+    url: https://httpstatus.xyz/522
+    method: DELETE
+    expectedStatusCodes:
+      - 522
+  - name: 522 - COPY
+    url: https://httpstatus.xyz/522
+    method: COPY
+    expectedStatusCodes:
+      - 522
+  - name: 522 - HEAD
+    url: https://httpstatus.xyz/522
+    method: HEAD
+    expectedStatusCodes:
+      - 522
+  - name: 522 - OPTIONS
+    url: https://httpstatus.xyz/522
+    method: OPTIONS
+    expectedStatusCodes:
+      - 522
+  - name: 522 - LOCK
+    url: https://httpstatus.xyz/522
+    method: LOCK
+    expectedStatusCodes:
+      - 522
+  - name: 522 - UNLOCK
+    url: https://httpstatus.xyz/522
+    method: UNLOCK
+    expectedStatusCodes:
+      - 522
+  - name: 522 - PROPFIND
+    url: https://httpstatus.xyz/522
+    method: PROPFIND
+    expectedStatusCodes:
+      - 522
+  - name: 523 - GET
+    url: https://httpstatus.xyz/523
+    method: GET
+    expectedStatusCodes:
+      - 523
+  - name: 523 - POST
+    url: https://httpstatus.xyz/523
+    method: POST
+    expectedStatusCodes:
+      - 523
+  - name: 523 - PUT
+    url: https://httpstatus.xyz/523
+    method: PUT
+    expectedStatusCodes:
+      - 523
+  - name: 523 - PATCH
+    url: https://httpstatus.xyz/523
+    method: PATCH
+    expectedStatusCodes:
+      - 523
+  - name: 523 - DELETE
+    url: https://httpstatus.xyz/523
+    method: DELETE
+    expectedStatusCodes:
+      - 523
+  - name: 523 - COPY
+    url: https://httpstatus.xyz/523
+    method: COPY
+    expectedStatusCodes:
+      - 523
+  - name: 523 - HEAD
+    url: https://httpstatus.xyz/523
+    method: HEAD
+    expectedStatusCodes:
+      - 523
+  - name: 523 - OPTIONS
+    url: https://httpstatus.xyz/523
+    method: OPTIONS
+    expectedStatusCodes:
+      - 523
+  - name: 523 - LOCK
+    url: https://httpstatus.xyz/523
+    method: LOCK
+    expectedStatusCodes:
+      - 523
+  - name: 523 - UNLOCK
+    url: https://httpstatus.xyz/523
+    method: UNLOCK
+    expectedStatusCodes:
+      - 523
+  - name: 523 - PROPFIND
+    url: https://httpstatus.xyz/523
+    method: PROPFIND
+    expectedStatusCodes:
+      - 523
+  - name: 524 - GET
+    url: https://httpstatus.xyz/524
+    method: GET
+    expectedStatusCodes:
+      - 524
+  - name: 524 - POST
+    url: https://httpstatus.xyz/524
+    method: POST
+    expectedStatusCodes:
+      - 524
+  - name: 524 - PUT
+    url: https://httpstatus.xyz/524
+    method: PUT
+    expectedStatusCodes:
+      - 524
+  - name: 524 - PATCH
+    url: https://httpstatus.xyz/524
+    method: PATCH
+    expectedStatusCodes:
+      - 524
+  - name: 524 - DELETE
+    url: https://httpstatus.xyz/524
+    method: DELETE
+    expectedStatusCodes:
+      - 524
+  - name: 524 - COPY
+    url: https://httpstatus.xyz/524
+    method: COPY
+    expectedStatusCodes:
+      - 524
+  - name: 524 - HEAD
+    url: https://httpstatus.xyz/524
+    method: HEAD
+    expectedStatusCodes:
+      - 524
+  - name: 524 - OPTIONS
+    url: https://httpstatus.xyz/524
+    method: OPTIONS
+    expectedStatusCodes:
+      - 524
+  - name: 524 - LOCK
+    url: https://httpstatus.xyz/524
+    method: LOCK
+    expectedStatusCodes:
+      - 524
+  - name: 524 - UNLOCK
+    url: https://httpstatus.xyz/524
+    method: UNLOCK
+    expectedStatusCodes:
+      - 524
+  - name: 524 - PROPFIND
+    url: https://httpstatus.xyz/524
+    method: PROPFIND
+    expectedStatusCodes:
+      - 524
+  - name: 525 - GET
+    url: https://httpstatus.xyz/525
+    method: GET
+    expectedStatusCodes:
+      - 525
+  - name: 525 - POST
+    url: https://httpstatus.xyz/525
+    method: POST
+    expectedStatusCodes:
+      - 525
+  - name: 525 - PUT
+    url: https://httpstatus.xyz/525
+    method: PUT
+    expectedStatusCodes:
+      - 525
+  - name: 525 - PATCH
+    url: https://httpstatus.xyz/525
+    method: PATCH
+    expectedStatusCodes:
+      - 525
+  - name: 525 - DELETE
+    url: https://httpstatus.xyz/525
+    method: DELETE
+    expectedStatusCodes:
+      - 525
+  - name: 525 - COPY
+    url: https://httpstatus.xyz/525
+    method: COPY
+    expectedStatusCodes:
+      - 525
+  - name: 525 - HEAD
+    url: https://httpstatus.xyz/525
+    method: HEAD
+    expectedStatusCodes:
+      - 525
+  - name: 525 - OPTIONS
+    url: https://httpstatus.xyz/525
+    method: OPTIONS
+    expectedStatusCodes:
+      - 525
+  - name: 525 - LOCK
+    url: https://httpstatus.xyz/525
+    method: LOCK
+    expectedStatusCodes:
+      - 525
+  - name: 525 - UNLOCK
+    url: https://httpstatus.xyz/525
+    method: UNLOCK
+    expectedStatusCodes:
+      - 525
+  - name: 525 - PROPFIND
+    url: https://httpstatus.xyz/525
+    method: PROPFIND
+    expectedStatusCodes:
+      - 525
+  - name: 526 - GET
+    url: https://httpstatus.xyz/526
+    method: GET
+    expectedStatusCodes:
+      - 526
+  - name: 526 - POST
+    url: https://httpstatus.xyz/526
+    method: POST
+    expectedStatusCodes:
+      - 526
+  - name: 526 - PUT
+    url: https://httpstatus.xyz/526
+    method: PUT
+    expectedStatusCodes:
+      - 526
+  - name: 526 - PATCH
+    url: https://httpstatus.xyz/526
+    method: PATCH
+    expectedStatusCodes:
+      - 526
+  - name: 526 - DELETE
+    url: https://httpstatus.xyz/526
+    method: DELETE
+    expectedStatusCodes:
+      - 526
+  - name: 526 - COPY
+    url: https://httpstatus.xyz/526
+    method: COPY
+    expectedStatusCodes:
+      - 526
+  - name: 526 - HEAD
+    url: https://httpstatus.xyz/526
+    method: HEAD
+    expectedStatusCodes:
+      - 526
+  - name: 526 - OPTIONS
+    url: https://httpstatus.xyz/526
+    method: OPTIONS
+    expectedStatusCodes:
+      - 526
+  - name: 526 - LOCK
+    url: https://httpstatus.xyz/526
+    method: LOCK
+    expectedStatusCodes:
+      - 526
+  - name: 526 - UNLOCK
+    url: https://httpstatus.xyz/526
+    method: UNLOCK
+    expectedStatusCodes:
+      - 526
+  - name: 526 - PROPFIND
+    url: https://httpstatus.xyz/526
+    method: PROPFIND
+    expectedStatusCodes:
+      - 526
+  - name: 527 - GET
+    url: https://httpstatus.xyz/527
+    method: GET
+    expectedStatusCodes:
+      - 527
+  - name: 527 - POST
+    url: https://httpstatus.xyz/527
+    method: POST
+    expectedStatusCodes:
+      - 527
+  - name: 527 - PUT
+    url: https://httpstatus.xyz/527
+    method: PUT
+    expectedStatusCodes:
+      - 527
+  - name: 527 - PATCH
+    url: https://httpstatus.xyz/527
+    method: PATCH
+    expectedStatusCodes:
+      - 527
+  - name: 527 - DELETE
+    url: https://httpstatus.xyz/527
+    method: DELETE
+    expectedStatusCodes:
+      - 527
+  - name: 527 - COPY
+    url: https://httpstatus.xyz/527
+    method: COPY
+    expectedStatusCodes:
+      - 527
+  - name: 527 - HEAD
+    url: https://httpstatus.xyz/527
+    method: HEAD
+    expectedStatusCodes:
+      - 527
+  - name: 527 - OPTIONS
+    url: https://httpstatus.xyz/527
+    method: OPTIONS
+    expectedStatusCodes:
+      - 527
+  - name: 527 - LOCK
+    url: https://httpstatus.xyz/527
+    method: LOCK
+    expectedStatusCodes:
+      - 527
+  - name: 527 - UNLOCK
+    url: https://httpstatus.xyz/527
+    method: UNLOCK
+    expectedStatusCodes:
+      - 527
+  - name: 527 - PROPFIND
+    url: https://httpstatus.xyz/527
+    method: PROPFIND
+    expectedStatusCodes:
+      - 527
+  - name: 530 - GET
+    url: https://httpstatus.xyz/530
+    method: GET
+    expectedStatusCodes:
+      - 530
+  - name: 530 - POST
+    url: https://httpstatus.xyz/530
+    method: POST
+    expectedStatusCodes:
+      - 530
+  - name: 530 - PUT
+    url: https://httpstatus.xyz/530
+    method: PUT
+    expectedStatusCodes:
+      - 530
+  - name: 530 - PATCH
+    url: https://httpstatus.xyz/530
+    method: PATCH
+    expectedStatusCodes:
+      - 530
+  - name: 530 - DELETE
+    url: https://httpstatus.xyz/530
+    method: DELETE
+    expectedStatusCodes:
+      - 530
+  - name: 530 - COPY
+    url: https://httpstatus.xyz/530
+    method: COPY
+    expectedStatusCodes:
+      - 530
+  - name: 530 - HEAD
+    url: https://httpstatus.xyz/530
+    method: HEAD
+    expectedStatusCodes:
+      - 530
+  - name: 530 - OPTIONS
+    url: https://httpstatus.xyz/530
+    method: OPTIONS
+    expectedStatusCodes:
+      - 530
+  - name: 530 - LOCK
+    url: https://httpstatus.xyz/530
+    method: LOCK
+    expectedStatusCodes:
+      - 530
+  - name: 530 - UNLOCK
+    url: https://httpstatus.xyz/530
+    method: UNLOCK
+    expectedStatusCodes:
+      - 530
+  - name: 530 - PROPFIND
+    url: https://httpstatus.xyz/530
+    method: PROPFIND
+    expectedStatusCodes:
+      - 530
+  - name: 598 - GET
+    url: https://httpstatus.xyz/598
+    method: GET
+    expectedStatusCodes:
+      - 598
+  - name: 598 - POST
+    url: https://httpstatus.xyz/598
+    method: POST
+    expectedStatusCodes:
+      - 598
+  - name: 598 - PUT
+    url: https://httpstatus.xyz/598
+    method: PUT
+    expectedStatusCodes:
+      - 598
+  - name: 598 - PATCH
+    url: https://httpstatus.xyz/598
+    method: PATCH
+    expectedStatusCodes:
+      - 598
+  - name: 598 - DELETE
+    url: https://httpstatus.xyz/598
+    method: DELETE
+    expectedStatusCodes:
+      - 598
+  - name: 598 - COPY
+    url: https://httpstatus.xyz/598
+    method: COPY
+    expectedStatusCodes:
+      - 598
+  - name: 598 - HEAD
+    url: https://httpstatus.xyz/598
+    method: HEAD
+    expectedStatusCodes:
+      - 598
+  - name: 598 - OPTIONS
+    url: https://httpstatus.xyz/598
+    method: OPTIONS
+    expectedStatusCodes:
+      - 598
+  - name: 598 - LOCK
+    url: https://httpstatus.xyz/598
+    method: LOCK
+    expectedStatusCodes:
+      - 598
+  - name: 598 - UNLOCK
+    url: https://httpstatus.xyz/598
+    method: UNLOCK
+    expectedStatusCodes:
+      - 598
+  - name: 598 - PROPFIND
+    url: https://httpstatus.xyz/598
+    method: PROPFIND
+    expectedStatusCodes:
+      - 598
+  - name: 599 - GET
+    url: https://httpstatus.xyz/599
+    method: GET
+    expectedStatusCodes:
+      - 599
+  - name: 599 - POST
+    url: https://httpstatus.xyz/599
+    method: POST
+    expectedStatusCodes:
+      - 599
+  - name: 599 - PUT
+    url: https://httpstatus.xyz/599
+    method: PUT
+    expectedStatusCodes:
+      - 599
+  - name: 599 - PATCH
+    url: https://httpstatus.xyz/599
+    method: PATCH
+    expectedStatusCodes:
+      - 599
+  - name: 599 - DELETE
+    url: https://httpstatus.xyz/599
+    method: DELETE
+    expectedStatusCodes:
+      - 599
+  - name: 599 - COPY
+    url: https://httpstatus.xyz/599
+    method: COPY
+    expectedStatusCodes:
+      - 599
+  - name: 599 - HEAD
+    url: https://httpstatus.xyz/599
+    method: HEAD
+    expectedStatusCodes:
+      - 599
+  - name: 599 - OPTIONS
+    url: https://httpstatus.xyz/599
+    method: OPTIONS
+    expectedStatusCodes:
+      - 599
+  - name: 599 - LOCK
+    url: https://httpstatus.xyz/599
+    method: LOCK
+    expectedStatusCodes:
+      - 599
+  - name: 599 - UNLOCK
+    url: https://httpstatus.xyz/599
+    method: UNLOCK
+    expectedStatusCodes:
+      - 599
+  - name: 599 - PROPFIND
+    url: https://httpstatus.xyz/599
+    method: PROPFIND
+    expectedStatusCodes:
+      - 599
+
 assignees:
   - SamPetherbridge
 
@@ -571,10 +3817,6 @@ status-website:
       href: /
     # - title: GitHub
     #   href: https://github.com/$OWNER/$REPO
-
-commitMessages:
-  commitAuthorName: "Upptime Bot"
-  commitAuthorEmail: "sam@peth.me"
 
 workflowSchedule:
   graphs: "0 0 * * *"
