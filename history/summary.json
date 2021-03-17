@@ -4,19 +4,19 @@
     "url": "https://httpstatus.xyz/200",
     "icon": "https://favicons.githubusercontent.com/httpstatus.xyz",
     "slug": "200-ok-get",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "98.98%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "100.00%",
     "time": 127,
     "timeDay": 551,
     "timeWeek": 221,
     "timeMonth": 144,
     "timeYear": 127,
     "dailyMinutesDown": {
-      "2021-03-17": 15
+      "2021-03-17": 5
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://httpstatus.xyz/200",
     "icon": "https://favicons.githubusercontent.com/httpstatus.xyz",
     "slug": "200-ok-post",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.00%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "100.00%",
     "time": 17,
     "timeDay": 15,
     "timeWeek": 16,
     "timeMonth": 16,
     "timeYear": 17,
     "dailyMinutesDown": {
-      "2021-03-17": 14
+      "2021-03-17": 5
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://httpstatus.xyz/200",
     "icon": "https://favicons.githubusercontent.com/httpstatus.xyz",
     "slug": "200-ok-put",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.02%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "100.00%",
     "time": 17,
     "timeDay": 16,
     "timeWeek": 16,
     "timeMonth": 17,
     "timeYear": 17,
     "dailyMinutesDown": {
-      "2021-03-17": 14
+      "2021-03-17": 5
     }
   },
   {
@@ -64,19 +64,19 @@
     "url": "https://httpstatus.xyz/200",
     "icon": "https://favicons.githubusercontent.com/httpstatus.xyz",
     "slug": "200-ok-patch",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.04%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.68%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "100.00%",
     "time": 16,
     "timeDay": 21,
     "timeWeek": 17,
     "timeMonth": 16,
     "timeYear": 16,
     "dailyMinutesDown": {
-      "2021-03-17": 14
+      "2021-03-17": 5
     }
   },
   {
@@ -84,19 +84,19 @@
     "url": "https://httpstatus.xyz/200",
     "icon": "https://favicons.githubusercontent.com/httpstatus.xyz",
     "slug": "200-ok-delete",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.05%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.70%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "100.00%",
     "time": 16,
     "timeDay": 13,
     "timeWeek": 16,
     "timeMonth": 16,
     "timeYear": 16,
     "dailyMinutesDown": {
-      "2021-03-17": 14
+      "2021-03-17": 4
     }
   },
   {
@@ -104,19 +104,19 @@
     "url": "https://httpstatus.xyz/200",
     "icon": "https://favicons.githubusercontent.com/httpstatus.xyz",
     "slug": "200-ok-copy",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.07%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.72%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "100.00%",
     "time": 17,
     "timeDay": 16,
     "timeWeek": 17,
     "timeMonth": 17,
     "timeYear": 17,
     "dailyMinutesDown": {
-      "2021-03-17": 13
+      "2021-03-17": 4
     }
   },
   {
@@ -124,19 +124,19 @@
     "url": "https://httpstatus.xyz/200",
     "icon": "https://favicons.githubusercontent.com/httpstatus.xyz",
     "slug": "200-ok-head",
-    "status": "up",
-    "uptime": "97.46%",
-    "uptimeDay": "99.09%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "97.46%",
+    "status": "down",
+    "uptime": "97.47%",
+    "uptimeDay": "99.74%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "97.47%",
     "time": 16,
     "timeDay": 14,
     "timeWeek": 15,
     "timeMonth": 15,
     "timeYear": 16,
     "dailyMinutesDown": {
-      "2021-03-17": 13,
+      "2021-03-17": 4,
       "2021-01-02": 623,
       "2021-01-01": 1440,
       "2020-12-31": 706
@@ -147,19 +147,19 @@
     "url": "https://httpstatus.xyz/200",
     "icon": "https://favicons.githubusercontent.com/httpstatus.xyz",
     "slug": "200-ok-options",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.12%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.76%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "100.00%",
     "time": 18,
     "timeDay": 15,
     "timeWeek": 16,
     "timeMonth": 19,
     "timeYear": 18,
     "dailyMinutesDown": {
-      "2021-03-17": 13
+      "2021-03-17": 3
     }
   },
   {
@@ -167,19 +167,19 @@
     "url": "https://httpstatus.xyz/200",
     "icon": "https://favicons.githubusercontent.com/httpstatus.xyz",
     "slug": "200-ok-lock",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.13%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "100.00%",
     "time": 18,
     "timeDay": 17,
     "timeWeek": 16,
     "timeMonth": 19,
     "timeYear": 18,
     "dailyMinutesDown": {
-      "2021-03-17": 12
+      "2021-03-17": 3
     }
   },
   {
@@ -187,19 +187,19 @@
     "url": "https://httpstatus.xyz/200",
     "icon": "https://favicons.githubusercontent.com/httpstatus.xyz",
     "slug": "200-ok-unlock",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.15%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "100.00%",
     "time": 17,
     "timeDay": 13,
     "timeWeek": 14,
     "timeMonth": 16,
     "timeYear": 17,
     "dailyMinutesDown": {
-      "2021-03-17": 12
+      "2021-03-17": 3
     }
   },
   {
@@ -207,19 +207,19 @@
     "url": "https://httpstatus.xyz/200",
     "icon": "https://favicons.githubusercontent.com/httpstatus.xyz",
     "slug": "200-ok-propfind",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.17%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.82%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "100.00%",
     "time": 16,
     "timeDay": 14,
     "timeWeek": 14,
     "timeMonth": 15,
     "timeYear": 16,
     "dailyMinutesDown": {
-      "2021-03-17": 12
+      "2021-03-17": 3
     }
   },
   {
@@ -227,19 +227,19 @@
     "url": "https://httpstatus.xyz/201",
     "icon": "https://favicons.githubusercontent.com/httpstatus.xyz",
     "slug": "201-get",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.19%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "100.00%",
     "time": 17,
     "timeDay": 20,
     "timeWeek": 17,
     "timeMonth": 16,
     "timeYear": 17,
     "dailyMinutesDown": {
-      "2021-03-17": 12
+      "2021-03-17": 2
     }
   },
   {
@@ -247,19 +247,19 @@
     "url": "https://httpstatus.xyz/201",
     "icon": "https://favicons.githubusercontent.com/httpstatus.xyz",
     "slug": "201-post",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.21%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 18,
     "timeDay": 14,
     "timeWeek": 17,
     "timeMonth": 18,
     "timeYear": 18,
     "dailyMinutesDown": {
-      "2021-03-17": 11
+      "2021-03-17": 2
     }
   },
   {
@@ -267,19 +267,19 @@
     "url": "https://httpstatus.xyz/201",
     "icon": "https://favicons.githubusercontent.com/httpstatus.xyz",
     "slug": "201-put",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.23%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 16,
     "timeDay": 14,
     "timeWeek": 14,
     "timeMonth": 15,
     "timeYear": 16,
     "dailyMinutesDown": {
-      "2021-03-17": 11
+      "2021-03-17": 2
     }
   },
   {
@@ -287,19 +287,19 @@
     "url": "https://httpstatus.xyz/201",
     "icon": "https://favicons.githubusercontent.com/httpstatus.xyz",
     "slug": "201-patch",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 17,
     "timeDay": 16,
     "timeWeek": 16,
     "timeMonth": 17,
     "timeYear": 17,
     "dailyMinutesDown": {
-      "2021-03-17": 11
+      "2021-03-17": 1
     }
   },
   {
@@ -307,19 +307,19 @@
     "url": "https://httpstatus.xyz/201",
     "icon": "https://favicons.githubusercontent.com/httpstatus.xyz",
     "slug": "201-delete",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 17,
     "timeDay": 17,
     "timeWeek": 16,
     "timeMonth": 17,
     "timeYear": 17,
     "dailyMinutesDown": {
-      "2021-03-17": 11
+      "2021-03-17": 1
     }
   },
   {
@@ -327,19 +327,19 @@
     "url": "https://httpstatus.xyz/201",
     "icon": "https://favicons.githubusercontent.com/httpstatus.xyz",
     "slug": "201-copy",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.29%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 16,
     "timeDay": 17,
     "timeWeek": 16,
     "timeMonth": 16,
     "timeYear": 16,
     "dailyMinutesDown": {
-      "2021-03-17": 10
+      "2021-03-17": 1
     }
   },
   {
